@@ -50,7 +50,7 @@
 	var book = <?php echo json_encode($book); ?>;
 </script>
 <script>
-$.ajax({url: "filesRemover.sh", async: true});
+$.ajax({url: "filesRemover.php", async: true});
 </script>
 </head>
 <script type="text/javascript" src="../static/BookReader/cacheUpdater.js"></script>
