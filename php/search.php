@@ -53,9 +53,6 @@
 require_once("connect.php");
 require_once("common.php");
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
-
 $query1 = "select * from feature order by feat_name";
 $result1 = mysql_query($query1);
 

@@ -38,9 +38,6 @@
 require_once("connect.php");
 require_once("common.php");
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
-
 $authid=$_GET['authid'];
 $authorname=$_GET['author'];
 

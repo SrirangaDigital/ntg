@@ -38,8 +38,6 @@
 require_once("connect.php");
 require_once("common.php");
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
 $author=$_POST['author'];
 $title=$_POST['title'];
 $year1=$_POST['year1'];
