@@ -14,10 +14,7 @@ if($num_rows)
 	$row=mysql_fetch_assoc($result);
 
 	$issueDetails = getIssueDetails($row['volume'], $row['issue'], $row['year'], $row['month']);
-	
-	$queryFeat = 'select feat_name from article where featid=\'' . $row['featid']  . '\'';
-	$resultFeat = mysql_query($queryFeat);
-	$rowFeat=mysql_fetch_assoc($resultFeat);
+	$featureDetails = getFeatures($row['featid']);
 
 	$html = '
 	<style>
@@ -73,7 +70,7 @@ if($num_rows)
 		</p>
 		<div>
 			<p class="issue">' . htmlentities($issueDetails) . '</p>
-			<p class="feature">' . htmlentities($rowFeat['feat_name']) . '</p>
+			<p class="feature">' . htmlentities($featureDetails) . '</p>
 			<p class="title">' . htmlentities($row['title']) . '</p>
 			<p class="author">&#8212;' . htmlentities($row['authorname']) . '</p>
 		</div>

@@ -424,6 +424,7 @@ function hasResetExpired($reset)
         }
     }
 }
+
 function getIssueDetails($volume, $issue, $year, $month)
 {
 
@@ -431,6 +432,29 @@ function getIssueDetails($volume, $issue, $year, $month)
 	
 	$str = engtohin_month($month) . ' ' . engtohin_issue($year) . ' (वर्ष ' . engtohin_issue($volume) . ' अंक ' . engtohin_issue($issue) . ')';
 	return $str;
+}
+
+function getFeatures($featid)
+{
+	if($featid != "")
+	{
+		$featids = preg_split('/;/',$featid);
+
+		$features = '';
+		foreach ($featids as $fid)
+		{
+			$query3 = "select feat_name from feature where featid='$fid'";
+			$result3 = mysql_query($query3);		
+			$row3=mysql_fetch_assoc($result3);
+			$features = $features . ', ' . $row3['feat_name'];
+		}
+
+		return preg_replace('/^, /', '', $features);
+	}
+	else
+	{
+		return '';
+	}
 }
 
 ?>
