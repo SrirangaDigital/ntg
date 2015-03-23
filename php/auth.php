@@ -67,10 +67,10 @@ if($num_rows)
 		$title1=addslashes($title);
 		
 		echo "<li>";
-		echo "<span class=\"titlespan\"><a href=\"bookReader.php?issue=$issue&amp;titleid=$titleid&amp;page=$page\">$title</a></span>";
+		echo "<span class=\"titlespan\"><a href=\"readBook.php?issue=$issue&amp;page=$page\" title=\"Read Online\" target=\"_blank\">$title</a></span>";
 		printFeature($featid, "hin", "");
 		echo "<br />";
-		echo "<span class=\"titlespan\"><a href=\"bookReader.php?issue=$issue&amp;titleid=$titleid&amp;page=$page\">" . uiConvertText($title) . "</a></span>";
+		echo "<span class=\"titlespan\"><a href=\"readBook.php?issue=$issue&amp;page=$page\" title=\"Read Online\" target=\"_blank\">" . uiConvertText($title) . "</a></span>";
 		printFeature($featid, "eng", "");
 		
 		echo "<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class=\"yearspan\"><a href=\"toc.php?vol=$volume&amp;issue=$issue\">".get_ymvi($volume, $issue, $year, $month)."</a></span>";

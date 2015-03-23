@@ -152,10 +152,10 @@ if($num_rows > 0)
 		}
 		
 		echo "<li>";
-		echo "<span class=\"titlespan\"><a href=\"bookReader.php?issue=$issue&amp;titleid=$titleid&amp;page=$page\">$dtitle</a></span>";
+		echo "<span class=\"titlespan\"><a href=\"readBook.php?issue=$issue&amp;page=$page\" title=\"Read Online\" target=\"_blank\">$dtitle</a></span>";
 		printFeature($featid, "hin", $efeatid);
 		echo "<br />";
-		echo "<span class=\"titlespan\"><a href=\"bookReader.php?issue=$issue&amp;titleid=$titleid&amp;page=$page\">" . uiConvertText($title) . "</a></span>";
+		echo "<span class=\"titlespan\"><a href=\"readBook.php?issue=$issue&amp;page=$page\" title=\"Read Online\" target=\"_blank\">" . uiConvertText($title) . "</a></span>";
 		printFeature($featid, "eng", $efeatid);
 		
 		printAuthor($authid, "hin", $eauthor);
