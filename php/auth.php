@@ -110,7 +110,7 @@ if($num_rows)
 			इ डि एम् माल के समीप, कौशाम्बि<br />
 			ग़ाज़ियाबाद, उत्तर प्रदेश २०१ ०१०<br />
 			भारत.<br /><br />
-			&copy; २०१४, नटरंग प्रतिष्ठान
+			&copy; २०१५, नटरंग प्रतिष्ठान
 		</p>
 		<p style="float: right;">
 			Natarang Pratishthan<br />
@@ -118,7 +118,7 @@ if($num_rows)
 			Near EDM mall, Kaushambi<br />
 			Ghaziabad, Uttar Pradesh 201 010<br />
 			INDIA.<br /><br />
-			&copy; 2014, Natarang Pratishthan
+			&copy; 2015, Natarang Pratishthan
 		</p>
 	</div>
 </div>
