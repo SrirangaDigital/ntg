@@ -71,7 +71,7 @@ else
 			<img src="images/nt1.png" alt="" />
 		</div>
 		<div class="sa">
-			<img src="images/logo.png" alt="Natarang Logo" class="logo"/>
+			<a href="../index.html"><img src="images/logo.png" alt="Natarang Logo" class="logo"/></a>
 		</div>
 		<div class="title">
 			<p>नटरंग</p>
