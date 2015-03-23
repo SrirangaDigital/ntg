@@ -73,7 +73,7 @@ a{
 	<p class="credit">
 		<br />
 		12<sup>th</sup> March 2015 08:15 PM IST<br />
-		This article is downloaded from Natarang archives (http://www.natarag.org/).<br />
+		This article is downloaded from Natarang archives (http://www.natarang.org/).<br />
 		All rights reserved.
 	</p>
 </div>
