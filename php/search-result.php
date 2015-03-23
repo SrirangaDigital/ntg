@@ -19,7 +19,7 @@
 			<img src="images/nt3.png" alt="" />
 		</div>		
 		<div class="sa">
-			<img src="images/logo.png" alt="Natarang Logo" class="logo"/>
+			<a href="../index.html"><img src="images/logo.png" alt="Natarang Logo" class="logo"/></a>
 		</div>
 		<div class="title">
 			<p>नटरंग</p>
@@ -38,8 +38,6 @@
 require_once("connect.php");
 require_once("common.php");
 
-$db = mysql_connect("localhost",$user,$password) or die("Not connected to database");
-$rs = mysql_select_db($database,$db) or die("No Database");
 $author=$_POST['author'];
 $title=$_POST['title'];
 $year1=$_POST['year1'];
@@ -206,7 +204,7 @@ else
 			इ डि एम् माल के समीप, कौशाम्बि<br />
 			ग़ाज़ियाबाद, उत्तर प्रदेश २०१ ०१०<br />
 			भारत.<br /><br />
-			&copy; २०१४, नटरंग प्रतिष्ठान
+			&copy; २०१५, नटरंग प्रतिष्ठान
 		</p>
 		<p style="float: right;">
 			Natarang Pratishthan<br />
@@ -214,7 +212,7 @@ else
 			Near EDM mall, Kaushambi<br />
 			Ghaziabad, Uttar Pradesh 201 010<br />
 			INDIA.<br /><br />
-			&copy; 2014, Natarang Pratishthan
+			&copy; 2015, Natarang Pratishthan
 		</p>
 	</div>
 </div>

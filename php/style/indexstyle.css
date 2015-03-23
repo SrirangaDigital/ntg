@@ -354,7 +354,7 @@ p.more{
 .fhin{
 	font-family: 'Siddhantaa';
 }
-.feng{
+.feng, .fgentium{
 	font-family: 'Crimson Text', serif;
 }
 .sleft{
@@ -388,7 +388,7 @@ p.more{
 	vertical-align: middle;
 	color: #111;
 }
-input {
+.archive_search input {
 	color: #444444;
 	border: 1px solid #777777;
 	height: 25px;
@@ -396,11 +396,11 @@ input {
 	outline: none;
 	padding-left: 5px;
 }
-textarea {
+.archive_search textarea {
 	color: #444444;
 	border: 1px solid #777777;
 }
-select {
+.archive_search select {
 	background: none;
 	color: #444444;
 	border: 1px solid #777777;
@@ -463,6 +463,125 @@ select {
 	color: #DA650D;
 	text-decoration: underline;
 }
+.clr2{
+	color: #DA650D;
+}
+.clr2 a{
+	color: #DA650D;
+	text-decoration: none;
+}
+.clr2 a:HOVER{
+	color: #DA650D;
+	text-decoration: underline;
+}
 .lheightMore{
 	line-height: 1.5em;
+}
+
+
+/*Login form*/
+
+.registration{
+	width: 400px;
+	margin: 30px 0 30px 30px;
+	box-shadow: 0 0 7px #AAA;
+	min-height: 100px;
+	padding: 20px;
+	font-size: 0.9em;
+}
+.feedback{
+	width: 400px;
+	margin: 30px;
+	box-shadow: 0 0 7px #AAA;
+	min-height: 100px;
+	padding: 20px;
+}
+.registration ul li, .feedback ul li{
+	margin-bottom: 1em;
+}
+.registration h2, .feedback h2{
+	
+}
+.registration .required_notification, .feedback .required_notification{
+		display:inline;
+    float:right;
+    margin-top: 5px;
+}
+.registration label{
+    width:220px;
+    margin-top: 3px;
+    display:inline-block;
+    float:left;
+    padding:3px 3px 3px 0px;
+}
+.feedback label {
+    width:320px;
+    margin-top: 3px;
+    display:inline-block;
+    float:left;
+    padding:3px 3px 3px 0px;
+}
+.registration input[type=text], .registration input[type=password], .feedback input[type=text], .feedback input[type=password]{
+    height:20px; 
+    width:95%; 
+    padding:5px 8px;
+    border: 1px solid #AAA;
+    border-radius: 3px;
+}
+.registration select, .feedback select {
+    background: none;
+    height:32px; 
+    width:318px; 
+    padding:5px 8px;
+    border: 1px solid #AAA;
+    border-radius: 3px;
+}
+.registration input[type=submit], .feedback input[type=submit] {
+    width:100px; 
+    padding:5px 8px;
+    border: 1px solid #AAA;
+    border-radius: 3px;
+    margin-top: 1em;
+    background: none;
+}
+.registration textarea{
+    padding:8px;
+    width:95%;
+    border: 1px solid #AAA;
+    height: 100px;
+    border-radius: 3px;
+}
+.feedback textarea{
+    padding:8px;
+    width:380px;
+    border: 1px solid #AAA;
+    height: 150px;
+    border-radius: 3px;
+}
+.registration button, .registration button{
+    margin-left:156px;
+}
+.registration input:FOCUS, .feedback input:FOCUS, .registration submit:FOCUS, .feedback submit:FOCUS, .registration select:FOCUS, .feedback select:FOCUS, .registration textarea:FOCUS, .feedback textarea:FOCUS{
+    box-shadow: 0 0 3px #5FC476;
+}
+.regs p{
+	color: #333;
+	padding: 1em;
+}
+.regs ul li{
+	color: #333;
+	margin-left: 3em;
+	margin-bottom: 0.5em;
+}
+.forgotPassword:ACTIVE{
+    text-decoration: underline;
+}
+#pr_email_show{
+    display: none;
+}
+.hide{
+	display: none;
+}
+input {
+	outline: none;
 }

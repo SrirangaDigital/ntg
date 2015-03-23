@@ -8,9 +8,16 @@ $pwd = $ARGV[3];
 use DBI();
 @ids=();
 
-open(IN,"ntg.xml") or die "can't open ntg.xml\n";
+open(IN,"<:utf8","ntg.xml") or die "can't open ntg.xml\n";
 
 my $dbh=DBI->connect("DBI:mysql:database=$db;host=$host","$usr","$pwd");
+$sth_enc=$dbh->prepare("set names utf8");
+$sth_enc->execute();
+$sth_enc->finish();
+
+$sth_drop=$dbh->prepare("DROP TABLE IF EXISTS article");
+$sth_drop->execute();
+$sth_drop->finish();
 
 #vnum, number, month, year, title, feature, authid, page, 
 
@@ -24,7 +31,7 @@ volume varchar(3),
 issue varchar(10),
 year varchar(10), 
 month varchar(6),
-titleid varchar(30), primary key(titleid)) ENGINE=MyISAM");
+titleid varchar(30), primary key(titleid)) ENGINE=MyISAM character set utf8 collate utf8_general_ci");
 $sth11->execute();
 $sth11->finish(); 
 

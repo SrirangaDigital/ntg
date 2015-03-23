@@ -367,4 +367,62 @@ function preProcessText($text)
 	$text = preg_replace("/डॉ\./", "Dr.", $text);
 	return($text);
 }
+function VerifyCredentials($lemail, $lpassword)
+{
+	session_start();
+	include("connect.php");
+	
+	$salt = "shankara";
+	$lpassword = sha1($salt.$lpassword);
+
+	$query_l2 = "select count(*) from details where email='$lemail' and password='$lpassword'";
+	$result_l2 = mysql_query($query_l2);
+	$row_l2=mysql_fetch_assoc($result_l2);
+	$num=$row_l2['count(*)'];
+	if($num > 0)
+	{
+		$query_l3 = "update details set visitcount=visitcount+1 where email='$lemail'";
+		$result_l3 = mysql_query($query_l3);
+		
+		$_SESSION['email'] = $lemail;
+		$_SESSION['valid'] = 1;
+		
+        @header("Location: volumes.php");
+		exit;
+	}
+	else
+	{
+		@header("Location: login.php?error=3");
+		exit;
+	}
+}
+function hasResetExpired($reset)
+{
+  	include("connect.php");
+	
+	$query_l2 = "select *,count(*) from reset where hash='$reset'";
+	$result_l2 = mysql_query($query_l2);
+	$row_l2=mysql_fetch_assoc($result_l2);
+	$num=$row_l2['count(*)'];
+	if ($num == 0)
+    {
+        return True;
+    }
+    else
+    {
+        $tstamp=$row_l2['timestamp'];
+        $cstamp = time();
+        if(floor(($cstamp - $tstamp) / 3600) > 24)
+        {
+            $query = "DELETE from reset where timestamp<='$tstamp'";
+            $result = mysql_query($query);            
+            return True;
+        }
+        else
+        {
+            return False;
+        }
+    }
+}
+
 ?>
