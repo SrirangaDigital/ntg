@@ -582,3 +582,6 @@ p.more{
 .hide{
 	display: none;
 }
+input {
+	outline: none;
+}

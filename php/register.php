@@ -1,17 +1,64 @@
 <?php
 
 session_start(); 
-if(isset($_SESSION['valid']))
-{
-    if($_SESSION['valid'] == 1)
-    {
-        @header("Location: ../index.html");
-        exit;
-    }
-}
-?>
+require_once('recaptchalib.php');
+$publickey = "6Lc6KPMSAAAAAJ-yzoW7_KCxyv2bNEZcLImzc7I8";
+$privatekey = "6Lc6KPMSAAAAANrIJ99zGx8wxzdUJ6SwQzk1BgXX";
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+$resp = null;
+$error = null;
+
+if (isset($_POST["recaptcha_response_field"])) {
+        $resp = recaptcha_check_answer ($privatekey,
+                                        $_SERVER["REMOTE_ADDR"],
+                                        $_POST["recaptcha_challenge_field"],
+                                        $_POST["recaptcha_response_field"]);
+        if ($resp->is_valid) {
+				
+        } else {
+				@header("Location: login.php?error=11#regForm");
+				exit;
+        }
+}
+
+if(isset($_POST['name'])){$name = $_POST['name'];if($name == ''){@header("Location: login.php?error=4#regForm");exit;}}else{@header("Location: login.php?error=4#regForm");exit;}
+
+if(isset($_POST['email']))
+{
+	$email = $_POST['email'];
+	if($email == '')
+	{
+		@header("Location: login.php?error=5#regForm");
+		exit;
+	}
+	else
+	{
+		if(!(preg_match("/.*\@[a-zA-Z0-9\.]+\.[a-zA-Z0-9\.]+/", $email)))
+		{
+			@header("Location: login.php?error=10#regForm");
+			exit;
+		}
+	}
+}
+else
+{
+	@header("Location: login.php?error=5#regForm");
+	exit;
+}
+
+/*
+if(isset($_POST['info'])){$info = $_POST['info'];if($info == ''){@header("Location: login.php?error=6#regForm");exit;}}else{@header("Location: login.php?error=6#regForm");exit;}
+*/
+if(isset($_POST['info'])){$info = $_POST['info'];}else{$info = '';}
+if(isset($_POST['password'])){$pwd = $_POST['password'];if($pwd == ''){@header("Location: login.php?error=7#regForm");exit;}}else{@header("Location: login.php?error=7#regForm");exit;}
+if(isset($_POST['cpassword'])){$cpassword = $_POST['cpassword'];if($cpassword == ''){@header("Location: login.php?error=8#regForm");exit;}}else{@header("Location: login.php?error=8#regForm");exit;}
+if($pwd != $cpassword)
+{
+	@header("Location: login.php?error=9#regForm");
+	exit;
+}
+
+echo '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 
 <head>
@@ -31,39 +78,8 @@ if(isset($_SESSION['valid']))
         })
     })
 </script>
-
 </head>
-
 <body>
-
-<?php
-
-unset($_POST['lemail']);
-unset($_POST['lpassword']);
-
-$error_message = array("1"=>"E-mail field is empty<br />","2"=>"Password field is empty<br />","3"=>"Invalid email or password.<br />");
-$error_message_registration = array("4"=>"Name field is empty<br />","5"=>"E-mail field is empty<br />","6"=>"Please fill in information about yourself<br />","7"=>"Password field is empty<br />","8"=>"Confirm-password filed is empty<br />","9"=>"Passwords not in confirmation<br />","10"=>"E-mail address invalid<br />","11"=>"Invalid CAPTCHA! Please try again<br />");
-
-$err_str = "&nbsp;";
-$err_str_registration = "&nbsp;";
-if(isset($_GET['error']))
-{
-	if($_GET['error'] < 4)
-	{
-		$err_str = $error_message{$_GET['error']};
-	}
-	else
-	{
-		$err_str_registration = $error_message_registration{$_GET['error']};
-	}
-}
-else
-{
-	$err_str = "&nbsp;";
-	$err_str_registration = "&nbsp;";
-}
-
-?>
 
 <div class="page">
 	<div class="header">		
@@ -78,8 +94,37 @@ else
 			<p class="sml">भारतीय रंगमंच का त्रैमासिक</p>
 		</div>
 	</div>
-	<div class="mainpage">
-		<p class="fgentium small clr">&nbsp;</p>
+	<div class="mainpage">';
+
+include("connect.php");
+
+$query_l2 = "select count(*) from details where email='$email'";
+$result_l2 = mysql_query($query_l2);
+$row_l2=mysql_fetch_assoc($result_l2);
+$num=$row_l2['count(*)'];
+
+if($num == 0)
+{
+	$salt = "shankara";
+	$pwd = sha1($salt.$pwd);
+	$query = "INSERT INTO details values('$name','$email','$info','$pwd','','','0','1','')";
+	$result = mysql_query($query);
+
+	if($result)
+	{
+		$_SESSION['email'] = $email;
+		$_SESSION['valid'] = 1;
+		
+		echo "<p class=\"fgentium small clr\">Registration Successful!</p>";		
+		echo "<div class=\"fgentium small regs\" style=\"text-align: left\">";
+		echo "<p>Thank you for registering!</p>";
+		echo "<p class=\"clr2\"><a href=\"volumes.php\">Click here to continue browsing</a></p>";
+		echo "</div>";
+	}
+}
+else
+{
+	echo '<p class="fgentium small clr">This e-mail id seems to be already registered with us. Try logging in or use another id.</p>
 		<form method="post" action="login_confirm.php">
 		<div class="registration">
 			<div class="otherp">
@@ -102,14 +147,14 @@ else
  					</li>
 					<li id="regForm">
 						<input class="rsubmit" type="submit" name="submit" value="submit"/>
-                        <p class="forgotPassword flright clr2"><a href="javascript:void(0);" onclick="$('#lemail').prop('disabled', true);$('#lpassword').prop('disabled', true);$('#regForm h2').hide();$('#pr_email_show').show();">Forgot your password?</a></p>
+                        <p class="forgotPassword flright clr2"><a href="javascript:void(0);" onclick="$(\'#lemail\').prop(\'disabled\', true);$(\'#lpassword\').prop(\'disabled\', true);$(\'#regForm h2\').hide();$(\'#pr_email_show\').show();">Forgot your password?</a></p>
 						<h2 class="clr2" style="margin-top: 2em;"><a href="javascript:void(0);" id="triggerRegistration">Click here to register, if you are a first time user</a></h2>
 					</li>
 				</ul>
 			</div>
 		</div>
 		</form>
-		<form method="post" action="register.php" id="registration"<?php echo ($err_str_registration == "&nbsp;") ? " class=\"hide\"" : ""; ?>>
+		<form method="post" action="register.php" id="registration" class="hide">
 		<div class="registration">
 			<div class="otherp">
 				<ul>
@@ -137,41 +182,23 @@ else
 						<label for="cpassword">Confirm Password&nbsp;<span class="clr2">*</span></label><br />
 						<input class="rinput" type="password" name="cpassword" />
 					</li>
-					<li>
-<?php
+					<li>';
 require_once('recaptchalib.php');
 $publickey = "6Lc6KPMSAAAAAJ-yzoW7_KCxyv2bNEZcLImzc7I8";
 $privatekey = "6Lc6KPMSAAAAANrIJ99zGx8wxzdUJ6SwQzk1BgXX";
 echo recaptcha_get_html($publickey);
-?>
-					</li>
+
+echo '					</li>
 					<li>
 						<input class="rsubmit" type="submit" name="submit" value="submit"/>
 					</li>
 				</ul>
 			</div>
 		</div>
-		</form>
+		</form>';
+}
 
+?>
 	</div>
-	<div class="footer_inside">
-		<p style="float: left;">
-			नटरंग प्रतिष्ठान<br />
-			७०६, सुमॆरु अपार्टमेंट<br />
-			इ डि एम् माल के समीप, कौशाम्बि<br />
-			ग़ाज़ियाबाद, उत्तर प्रदेश २०१ ०१०<br />
-			भारत.<br /><br />
-			&copy; २०१५, नटरंग प्रतिष्ठान
-		</p>
-		<p style="float: right;">
-			Natarang Pratishthan<br />
-			706, Sumeru Apartments<br />
-			Near EDM mall, Kaushambi<br />
-			Ghaziabad, Uttar Pradesh 201 010<br />
-			INDIA.<br /><br />
-			&copy; 2015, Natarang Pratishthan
-		</p>
-	</div>
-</div>
 </body>
 </html>
