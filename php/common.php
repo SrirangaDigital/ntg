@@ -424,5 +424,13 @@ function hasResetExpired($reset)
         }
     }
 }
+function getIssueDetails($volume, $issue, $year, $month)
+{
+
+	// 'अप्रैल-सितम्बर १९६९ (वर्ष ३ अंक १०-११)';
+	
+	$str = engtohin_month($month) . ' ' . engtohin_issue($year) . ' (वर्ष ' . engtohin_issue($volume) . ' अंक ' . engtohin_issue($issue) . ')';
+	return $str;
+}
 
 ?>

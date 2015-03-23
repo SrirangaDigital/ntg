@@ -1,106 +1,121 @@
 <?php
 
-// $issue = $_GET['issue'];
-$issueDetails = 'अप्रैल-सितम्बर १९६९ (वर्ष ३ अंक १०-११)';
-// $titleid = $_GET['titleid'];
-$title = 'मिट्टी की गाड़ी का रंगमंच : एक रंग-अनुभूति';
-$volume = '001';
-$page = '0032';
-$page_end = '0036';
-$feature = 'नाटक/प्रदर्शन';
-$author = 'लक्ष्मी नारायण लाल';
+require_once("connect.php");
+require_once("common.php");
 
-$html = '
-<style>
-body, p, div { font-size: 14pt; font-family: freeserif;}
-h3 { font-size: 15pt; margin-bottom:0; font-family: sans-serif; }
-.heading{
-	font-size: 40px;
-	margin-bottom: 0;
-	margin-top: 0px;
-}
-.sml{
-	font-size: 20px;
-}
-.flow{
-	float: right;
-	width: 300px;
-}
-.logo{
-	height: 100px;
-}
-.title{
-	font-weight: bold;
-	font-size: 24px;
-}
-.feature{
-	font-weight: bold;
-	font-size: 22px;
-}
-.author{
-	font-size: 22px;
-}
-.issue{
-	font-size: 20px;
-}
-.credit{
-	font-size: 14px;
-	font-family: sans-serif;
-	color: #777;
-	text-align: right;
-	line-height: 1.75em;
-}
-a{
-	text-decoration: none;
-}
-</style>
+$titleid=$_GET['titleid'];
 
-<div style="text-align: left;">
-	<img src="images/nt5.png" class="flow"/>
-	<img src="images/logo.png" class="logo"/>
-	<p class="heading">
-		' . htmlentities('नटरंग') . '<br />
-		<span class="sml">' . htmlentities('भारतीय रंगमंच का त्रैमासिक') . '</span>
-	</p>
-	<div>
-		<p class="issue">' . htmlentities($issueDetails) . '</p>
-		<p class="feature">' . htmlentities($feature) . '</p>
-		<p class="title">' . htmlentities($title) . '</p>
-		<p class="author">&#8212;' . htmlentities($author) . '</p>
+$query = 'select * from article where titleid=\'' . $titleid . '\'';
+$result = mysql_query($query);
+$num_rows = mysql_num_rows($result);
+
+if($num_rows)
+{
+	$row=mysql_fetch_assoc($result);
+
+	$issueDetails = getIssueDetails($row['volume'], $row['issue'], $row['year'], $row['month']);
+	
+	$queryFeat = 'select feat_name from article where featid=\'' . $row['featid']  . '\'';
+	$resultFeat = mysql_query($queryFeat);
+	$rowFeat=mysql_fetch_assoc($resultFeat);
+
+	$html = '
+	<style>
+	body, p, div { font-size: 14pt; font-family: freeserif;}
+	h3 { font-size: 15pt; margin-bottom:0; font-family: sans-serif; }
+	.heading{
+		font-size: 40px;
+		margin-bottom: 0;
+		margin-top: 0px;
+	}
+	.sml{
+		font-size: 20px;
+	}
+	.flow{
+		float: right;
+		width: 300px;
+	}
+	.logo{
+		height: 100px;
+	}
+	.title{
+		font-weight: bold;
+		font-size: 24px;
+	}
+	.feature{
+		font-weight: bold;
+		font-size: 22px;
+	}
+	.author{
+		font-size: 22px;
+	}
+	.issue{
+		font-size: 20px;
+	}
+	.credit{
+		font-size: 14px;
+		font-family: sans-serif;
+		color: #777;
+		text-align: right;
+		line-height: 1.75em;
+	}
+	a{
+		text-decoration: none;
+	}
+	</style>
+
+	<div style="text-align: left;">
+		<img src="images/nt5.png" class="flow"/>
+		<img src="images/logo.png" class="logo"/>
+		<p class="heading">
+			' . htmlentities('नटरंग') . '<br />
+			<span class="sml">' . htmlentities('भारतीय रंगमंच का त्रैमासिक') . '</span>
+		</p>
+		<div>
+			<p class="issue">' . htmlentities($issueDetails) . '</p>
+			<p class="feature">' . htmlentities($rowFeat['feat_name']) . '</p>
+			<p class="title">' . htmlentities($row['title']) . '</p>
+			<p class="author">&#8212;' . htmlentities($row['authorname']) . '</p>
+		</div>
 	</div>
-</div>
-<div>
-	<p class="credit">
-		<br />
-		12<sup>th</sup> March 2015 08:15 PM IST<br />
-		This article is downloaded from Natarang archives (http://www.natarang.org/).<br />
-		All rights reserved.
-	</p>
-</div>
-';
-//==============================================================
-//==============================================================
-//==============================================================
+	<div>
+		<p class="credit">
+			<br />
+			12<sup>th</sup> March 2015 08:15 PM IST<br />
+			This article is downloaded from Natarang archives (http://www.natarang.org/).<br />
+			All rights reserved.
+		</p>
+	</div>
+	';
+	//==============================================================
+	//==============================================================
+	//==============================================================
 
-include("../mpdf60/mpdf.php");
+	include("../mpdf60/mpdf.php");
 
-$mpdf=new mPDF(''); 
+	$mpdf=new mPDF(''); 
 
-$mpdf->WriteHTML($html);
+	$mpdf->WriteHTML($html);
 
-$faceFilename = '../ReadWrite/facingSheet.pdf';
-$inFilename = '../Volumes/' . $volume . '/' . $page . '-' . $page_end .'.pdf';
-$outFilename = '../ReadWrite/' . time() . '-' . $volume . '-' . $page . '-' . $page_end . '.pdf';
+	$faceFilename = '../ReadWrite/facingSheet.pdf';
+	$inFilename = '../Volumes/pdf/' . $row['issue'] . '/' . $row['page'] . '-' . $row['page_end'] .'.pdf';
+	$outFilename = '../ReadWrite/' . time() . '-' . $row['issue'] . '-' . $row['page'] . '-' . $row['page_end'] . '.pdf';
 
-$mpdf->Output($faceFilename, 'F');
+	$mpdf->Output($faceFilename, 'F');
 
-system('pdftk ' . $faceFilename . ' ' . $inFilename . ' cat output ' . $outFilename);
-system('rm ' . $faceFilename);
+	system('pdftk ' . $faceFilename . ' ' . $inFilename . ' cat output ' . $outFilename);
+	system('rm ' . $faceFilename);
 
-@header("Location: $outFilename");
-exit;
+	@header("Location: $outFilename");
+	exit;
 
-//==============================================================
-//==============================================================
+	//==============================================================
+	//==============================================================
+
+}
+else
+{
+	@header("Location: ../index.html");	
+}
 
 ?>
