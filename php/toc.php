@@ -82,7 +82,7 @@ if($num_rows)
 		
 		printAuthor($authid, "hin", "");
 		printAuthor($authid, "eng", "");
-		echo "<br /><span class=\"downloadspan\"><a href=\"downloadPDF.php?titleid=$titleid\">Download PDF</a></span>";
+		echo "<br /><span class=\"downloadspan\"><a target=\"_blank\" href=\"downloadPDF.php?titleid=$titleid\">Download PDF</a></span>";
 		echo "</li>\n";
 	}
 }
