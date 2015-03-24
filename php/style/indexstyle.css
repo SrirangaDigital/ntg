@@ -316,6 +316,18 @@ p.more{
 	color: #804F0B;
 	text-decoration:underline;
 }
+.downloadspan {
+	color: #111; 
+	font-size: 0.9em;
+	margin-left: 0em;
+}
+.downloadspan a{
+	color: inherit;
+	text-decoration:none;
+}
+.downloadspan a:Hover{
+	text-decoration:underline;
+}
 .alphabet {
 	width: 70%;
 	text-align: left;

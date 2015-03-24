@@ -122,6 +122,7 @@ if($num_rows)
 		printAuthor($authid, "eng", "");
 		echo "<br /><span class=\"sleft yearspan\"><a href=\"toc.php?vol=$volume&amp;issue=$issue\">".get_ymvi($volume, $issue, $year, $month)."</a></span>";
 		echo " &nbsp;<span class=\"yearspan\"><a href=\"toc.php?vol=$volume&amp;issue=$issue\">(".get_ymvi_eng($volume, $issue, $year, $month).")</a></span>";
+		echo "<br /><span class=\"downloadspan\"><a href=\"downloadPDF.php?titleid=$titleid\">Download PDF</a></span>";
 		echo "</li>\n";
 	}
 }
