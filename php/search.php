@@ -81,6 +81,10 @@ if($num_rows1)
 								</td>
 							</tr>
 							<tr>
+								<td class="left"><span class="authorspan">शब्दः</span></td>
+								<td class="right"><input name="text" type="text" class="titlespan wide_input" id="textfield3" onfocus="SetId('textfield3')"/></td>
+							</tr>
+							<tr>
 								<td class="left"><span class="authorspan">वर्ष</span></td>
 								<td class="right"><select name="year1" class="titlespan">
 										<option value="">&nbsp;</option>

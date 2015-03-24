@@ -1,7 +1,6 @@
 <?php
 	include("../../connect.php");
-	$year = $_GET["year"];
-	$month = $_GET["month"];
+	$issue = $_GET["issue"];
 	$qtext = $_GET["q"];
 	$stext  = $_GET["q"];
 	$texts = '';
@@ -11,32 +10,21 @@
 	{
 		$textFilter .= $texts[$ic] . "* ";
 	}
-	$db = @new mysqli('localhost', "$user", "$password", "$database");
-	$db->set_charset("utf8");
-	$query = "SELECT * FROM searchtable WHERE MATCH (text) AGAINST ('$textFilter' IN BOOLEAN MODE) and cur_page NOT REGEXP '[a-z]' and year = '$year' and month = '$month'";
-	
-	$result = $db->query($query); 
-	$num_rows = $result ? $result->num_rows : 0;
+	$query = "SELECT * FROM searchtable WHERE MATCH (text) AGAINST ('$textFilter' IN BOOLEAN MODE) and cur_page NOT REGEXP '[a-z]' and issue = '$issue'";
+	$result = mysql_query($query); 
+	$num_rows = $result ? mysql_num_rows($result) : 0;
 	for($a=1;$a<=$num_rows;$a++)
 	{
-		$row=$result->fetch_assoc();
-		$query1 = "select * from word where match (word) AGAINST ('$textFilter' IN BOOLEAN MODE) and year = '".$year."' and month = '".$month."' and pagenum = '".$row["cur_page"]."'" ;
-		$result1 = $db->query($query1);
-		$num_rows1 = $result1->num_rows;
+		$row = mysql_fetch_assoc($result);
+		$query1 = "select * from word where match (word) AGAINST ('$textFilter' IN BOOLEAN MODE) and issue = '".$issue."' and pagenum = '".$row["cur_page"]."'" ;
+		$result1 = mysql_query($query1);
+		$num_rows1 = mysql_num_rows($result1);
 		$cord = array();
 		$array = "";
 		for($b = 0; $b < $num_rows1; $b++)
 		{
-			$row1=$result1->fetch_assoc();
+			$row1=mysql_fetch_assoc($result1);
 			$cord[] = array("l" => $row1['l'],"b" => $row1["b"],"r" => $row1["r"],"t" => $row1["t"]);
-			//~ $sumne = preg_split("/,/", $row1['cords']);
-			//~ Base image size is 800X1200
-			//~ Also note that coordinate has already been shifted to top left from bottom left (DjVu)
-			//~ $sumne[0] = floor($sumne[0] * 800 / $row1['width']);
-			//~ $sumne[2] = floor($sumne[2] * 800 / $row1['width']);
-			//~ $sumne[1] = floor($sumne[1] * 1200 / $row1['height']);
-			//~ $sumne[3] = floor($sumne[3] * 1200 / $row1['height']);
-
 		}
 		$row1["text"] = "Text Found in";
 		$qtext = "Text";
