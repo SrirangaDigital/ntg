@@ -7,4 +7,7 @@
 	if(isset($_GET['text']) && $_GET['text'] != ''){$text = $_GET['text']; $url .= "&searchText=".$text;}
 	
 	@header("Location: bookreader/templates/book.php?".$url);
+
+	// Id DjVu is required link is there below
+	// @header("Location:../Volumes/djvu/$issue/index.djvu?djvuopts&page=$page.djvu&zoom=page");
 ?>
