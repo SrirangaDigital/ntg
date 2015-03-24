@@ -118,6 +118,9 @@ else
 						<h2 class="big clr2">Registration</h2>
 					</li>
 					<li>
+						<label style="width: 100%;">Please register below to view full text articles. Registration is free of any charges. However, you may continue to use other sections of the website like the author-article-issue listing and the search page without registration.</label>
+					</li>
+					<li>
 						<label for="name">Name&nbsp;<span class="clr2">*</span></label><br />
 						<input class="rinput" type="text" name="name" />
 					</li>
@@ -144,6 +147,9 @@ $publickey = "6Lc6KPMSAAAAAJ-yzoW7_KCxyv2bNEZcLImzc7I8";
 $privatekey = "6Lc6KPMSAAAAANrIJ99zGx8wxzdUJ6SwQzk1BgXX";
 echo recaptcha_get_html($publickey);
 ?>
+					</li>
+					<li>
+						<label style="width: 100%;">I hereby agree to the <span class="clr2"><a target="_blank" href="terms.html">Terms and Conditions.</a></span></label>
 					</li>
 					<li>
 						<input class="rsubmit" type="submit" name="submit" value="submit"/>

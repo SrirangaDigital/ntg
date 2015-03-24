@@ -597,3 +597,7 @@ p.more{
 input {
 	outline: none;
 }
+.decimal li{
+	list-style-type: decimal;
+	margin-left: 2.5em;
+}
