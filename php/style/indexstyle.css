@@ -163,7 +163,7 @@ div.section{
 	color:#6a6a6a;
 	font-size:15.5px;
 	line-height:21px;
-	margin:5em 0 0px 0;
+	margin:2em 0 3em 0;
 }
 .linkText img{
 	height: 125px;
@@ -171,7 +171,7 @@ div.section{
 	border: 1px solid #EEE;
 }
 .sign a{
-	color: #AF0204;
+	color: #DA650D;
 	text-decoration: none;
 }
 .sign a:HOVER{
@@ -600,4 +600,7 @@ input {
 .decimal li{
 	list-style-type: decimal;
 	margin-left: 2.5em;
+}
+.pointer{
+	cursor: pointer;
 }

@@ -10,6 +10,19 @@
 <script type="text/javascript" src="php/js/jquery-1.9.1.js"></script>
 <script type="text/javascript" src="php/js/jquery-ui.js"></script>
 <script type="text/javascript" src="php/js/nav.js"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$( '#showHindi' ).on( "click", function() {
+			$( '#showHindi' ).hide(  );
+			$( '#hiddenHindi' ).slideDown( 'slow' );
+		} );
+		$( '#showEnglish' ).on("click", function() {
+			$( '#showEnglish' ).hide(  );
+			$( '#hiddenEnglish' ).slideDown( 'slow' );
+		} );
+	});
+</script>
+
 </head>
 
 <body>
@@ -29,19 +42,28 @@
 	<div class="mainpage">
 		<div class="widget11">
 			<div class="col2 largeSpace">
+				<div class="linkText">
+					<a href="php/toc.php?vol=001&amp;issue=003" target="_blank"><img src="php/cover/003.jpg" alt="Issue 3 cover page" /></a>
+					<a href="php/toc.php?vol=007&amp;issue=025" target="_blank"><img src="php/cover/025.jpg" alt="Issue 25 cover page" /></a>
+					<a href="php/toc.php?vol=011&amp;issue=044" target="_blank"><img src="php/cover/044.jpg" alt="Issue 44 cover page" /></a>
+					<a href="php/toc.php?vol=022&amp;issue=086-087" target="_blank"><img src="php/cover/086-087.jpg" alt="Issue 86-87 cover page" /></a>
+					<span class="sign"><a href="php/volumes.php">…सम्पूर्ण संग्रह</a></span>
+				</div>
 				<p class="subText lheightMore">हिन्दी रंग त्रैमासिकी नटरंग नाटक और रंगमंच की अग्रणी और भारतीय भाषाओं में अपने ढंग की अकेली पत्रिका है। नटरंग भारतीय रंगमंच के सभी सूत्रों को अपने भीतर समेट कर रंग विमर्श, विचार विनिमय, मूल्यांकन और सृजनात्मकता तथा रंगकर्मियों की अभिव्यक्ति का माध्यम बना है। साथ ही उसने रंगमंच को एक सशक्त कलानुशासन और सांस्कृतिक मूल्यों की अभिव्यक्ति की एक बहुआयामी विधा के रूप में प्रतिष्ठित भी किया है।</p>
-				<p class="subText lheightMore">नटरंग ने निरंतर अकेले अपने संसाधनों और कुछ सहयोगों से रंगमंचीय कार्य की सही दिशा और सुदृढ़ आधार खोजने का प्रयास किया है जो पचास वर्षों की एक लम्बी रंग परम्परा को सहजने-समेटने-समझने की महत्वपूर्ण उपलब्धि है। नटरंग में एक ओर जहाँ लगभग सभी अंकों में एक सम्पूर्ण नाटक है, रंगमंचीय समस्याओं पर परिसंवाद, कथ्यात्मक-शिल्पगत सूचनात्मक विवरण, विवेचन और समीक्षा आदि है वहीं दूसरी ओर रंगमंच की सृजनात्मक समस्याओं पर गंभीर विवेचन भी प्रस्तुत है। देश के विभिन्न क्षेत्रों के पारम्परिक एवं लोक नाट्य, भारतीय भाषाओं में रंगमंच, नाटककारों-निर्देशकों और अभिनेताओं के अंतर्संम्बन्ध, पारसी रंगमंच, बाल रंगमंच, संस्कृत रंगमंच, विदेशी रंगमंच, पुस्तक व नाट्य समीक्षा आदि के साथ समकालीन रंगमंचीय गतिविधियों का जीवंत नाट्य-वृत्त, नाटक डायरी और समीक्षाएँ भी उसमें स्थान पाते हैं।</p>
-				<p class="clr flright"><a href="php/intro_hin.html">…आगे</a></p>
-
+				<p class="clr flright pointer" id="showHindi"><a>…आगे</a></p>
+				<div id="hiddenHindi" class="hide">
+					<p class="subText lheightMore">नटरंग ने निरंतर अकेले अपने संसाधनों और कुछ सहयोगों से रंगमंचीय कार्य की सही दिशा और सुदृढ़ आधार खोजने का प्रयास किया है जो पचास वर्षों की एक लम्बी रंग परम्परा को सहजने-समेटने-समझने की महत्वपूर्ण उपलब्धि है। नटरंग में एक ओर जहाँ लगभग सभी अंकों में एक सम्पूर्ण नाटक है, रंगमंचीय समस्याओं पर परिसंवाद, कथ्यात्मक-शिल्पगत सूचनात्मक विवरण, विवेचन और समीक्षा आदि है वहीं दूसरी ओर रंगमंच की सृजनात्मक समस्याओं पर गंभीर विवेचन भी प्रस्तुत है। देश के विभिन्न क्षेत्रों के पारम्परिक एवं लोक नाट्य, भारतीय भाषाओं में रंगमंच, नाटककारों-निर्देशकों और अभिनेताओं के अंतर्संम्बन्ध, पारसी रंगमंच, बाल रंगमंच, संस्कृत रंगमंच, विदेशी रंगमंच, पुस्तक व नाट्य समीक्षा आदि के साथ समकालीन रंगमंचीय गतिविधियों का जीवंत नाट्य-वृत्त, नाटक डायरी और समीक्षाएँ भी उसमें स्थान पाते हैं।</p>
+					<p class="subText lheightMore">नटरंग के संस्थापक-सम्पादक हिन्दी के सुप्रसिद्ध कवि, आलोचक व नाट्य समीक्षक श्री नेमिचन्द्र जैन ने इन्ही दृष्टिकोणों और मूल्यों से वर्ष 1965 में नटरंग की स्थापना की थी जिसका परिणाम है कि आज नटरंग के पाठक देश विदेश के नाटक और रंगमंच के प्रेमियों में ही नहीं बल्कि अन्य सुसंस्कृत शिक्षित समुदायों, कला प्रेमियों और गैर हिन्दी भाषी क्षेत्रों तथा विदेशों में भी हैं। देश के अनेक विश्वविद्यालयों, कॉलेजों, शिक्षण संस्थानों और पुस्तकालयों में इसके ग्राहक हैं। यह हिन्दी तथा रंग जगत की महत्वपूर्ण आवश्यकताओं को पूरा करती है।</p>
+					<p class="subText lheightMore">नटरंग के सभी अंक वैसे तो अपने आप में रंग दस्तावेज हैं फिर भी कुछ विशेष अंक जो रंगमंच के विभिन्न विषयों, व्यक्तियों और नाटकों पर केन्द्रित हैं, का उल्लेख करना समीचीन होगा। विभिन्न भाषाओं के रंगमंच पर केन्द्रित अंक नं. 4, बाल रंगमंच-13 व 29, मोहन राकेश-21, स्कन्दगुप्त (जयशंकर प्रसाद लिखित नाटक)-44, हिन्दी रंगमंच 50-52, नेमिचन्द्र जैन विशेषांक 74-76, हबीब तनवीर विशेषांक 86-87, भुवनेश्वर-89-90, इन्द्रसभा-91 तथा गुजराती नाटक पर विशेषांक 93-94 आदि। अपनी विशिष्ट सामग्री के कारण ये अंक विशेष रूप से संग्रहणीय हैं।</p>
+					<p class="subText lheightMore">नटरंग अपने पचास वर्षों की लम्बी रंग यात्रा में 100वें अंक के करीब है। स्वर्गीय श्री नेमिचन्द्र जैन के बाद अब पत्रिका के सम्पादक श्री अशोक वाजपेयी और श्रीमती रश्मि वाजपेयी हैं। नटरंग का प्रकाशन नाट्य संसाधन केन्द्र नटरंग प्रतिष्ठान के अधीन होता है।</p>
+				</div>
 				<p class="subText clr" style="margin-top: 3em;">Natarang - The Theatre Journal</p>
 				<p class="subText">Natarang, a journal devoted to theatre and theatre criticism, has been a unique endeavour of its kind not only in Hindi but in the wider context of Indian theatre since 1965. For nearly half a century it has followed theatre practice, dramatic developments, playwriting, important productions, new directors, dynamic actors etc to provide a multiangle perspective on contemporary Indian theatre. For nearly five   decades it has enjoyed wide reputation for its critical coverage, serious discussions, authentic references and publishing new plays in Hindi and Hindi translation. It has served as a responsible venue for lively debates and intellectual exchanges on vital and urgent issues in contemporary theatre.</p>
-				<p class="clr flright button"><a href="php/intro_eng.html">…more</a></p>
-				<div class="linkText">
-					<a href="php/toc.php?vol=001&issue=003" target="_blank"><img src="php/cover/003.jpg" alt="Issue 3 cover page" /></a>
-					<a href="php/toc.php?vol=007&issue=025" target="_blank"><img src="php/cover/025.jpg" alt="Issue 25 cover page" /></a>
-					<a href="php/toc.php?vol=011&issue=044" target="_blank"><img src="php/cover/044.jpg" alt="Issue 44 cover page" /></a>
-					<a href="php/toc.php?vol=022&issue=086-087" target="_blank"><img src="php/cover/086-087.jpg" alt="Issue 86-87 cover page" /></a>
-					<span class="sign"><a href="php/volumes.php">…सम्पूर्ण संग्रह</a></span>
+				<p class="clr flright button pointer" id="showEnglish"><a>…more</a></p>
+				<div id="hiddenEnglish" class="hide">
+					<p class="subText">Over the years it has published many special numbers on wide ranging themes including on Mohan Rakesh, Habib Tanvir, Bhuvaneshwar, Nemi Chandra Jain, Skandgupta (a classic of Jaishanker Prasad ) Indersabha, Gujarati theatre, children`s theatre, women directors etc. It has endeavoured to provide in-depth critique of variant forms of theatre in India including folk and traditional theatre, avant garde, Sanskrit, Parsi, international theatre etc.</p>
+					<p class="subText">As a journal it has been providing a pan Indian forum for information, dialogue and debate on contemporary theatre. It is an important reference manual for anybody who wants to know what is happening in Hindi theatre, in other Indian languages and indeed in the world.</p>
+					<p class="subText">`Natarang was founded and edited for nearly four decades by the legendary theatre- critic, poet and literary critic late Shri Nemi Chandra Jain and is currently co-edited by Ashok Vajpeyi and Rashmi Vajpeyi for the theatre resource centre Natarang Pratishthan.</p>
 				</div>
 			</div>
 		</div>
