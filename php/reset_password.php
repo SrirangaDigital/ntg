@@ -111,7 +111,7 @@ elseif(isset($_GET['reset']))
                 echo "<p class=\"fgentium small clr\">Password sucessfully reset.<br /><br /><a href=\"login.php\">Click here to login.</a></p>";
                 $from = $supportEmail;
                 
-                $message = "Dear $name,<br /><br />Your password has been sucessfully reset.<br /><br />Thanks,<br />Team Advaita Sharada";
+                $message = "Dear $name,<br /><br />Your password has been sucessfully reset.<br /><br />Thanks,<br />Team Natarang";
                 $mail = new PHPMailer();
                 $mail->isSendmail();
                 $mail->isHTML(true);

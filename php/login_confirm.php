@@ -37,7 +37,7 @@ if(isset($_POST['pr_email']))
             
             $from = $supportEmail;
             
-            $message = "Dear $name,<br /><br />Use the following link within the next 24 hours to reset your password:<br /><a href=\"http://advaitasharada.sringeri.net/php/reset_password.php?reset=$hash\">http://advaitasharada.sringeri.net/php/reset_password.php?reset=$hash</a><br /><br />Thanks,<br />Team Natarang";
+            $message = "Dear $name,<br /><br />Use the following link within the next 24 hours to reset your password:<br /><a href=\"http://192.155.224.66/stage/ntg/php/reset_password.php?reset=$hash\">http://192.155.224.66/stage/ntg/php/reset_password.php?reset=$hash</a><br /><br />Thanks,<br />Team Natarang";
             $mail = new PHPMailer();
             $mail->isSendmail();
             $mail->isHTML(true);
