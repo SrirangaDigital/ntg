@@ -41,7 +41,7 @@
 						<span class="letter"><a href="authors.php?letter=ई">ई</a></span>
 						<span class="letter"><a href="authors.php?letter=उ">उ</a></span>
 						<span class="letter"><a href="authors.php?letter=ए">ए</a></span>
-						<span class="letter"><a href="authors.php?letter=ऎ">ऎ</a></span>
+						<span class="letter"><a href="authors.php?letter=ऐ">ऐ</a></span>
 						<span class="letter"><a href="authors.php?letter=ओ">ओ</a></span>
 						<span class="letter"><a href="authors.php?letter=क">क</a></span>
 						<span class="letter"><a href="authors.php?letter=ख">ख</a></span>
