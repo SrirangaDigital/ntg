@@ -79,7 +79,7 @@ else
 		</div>
 	</div>
 	<div class="mainpage">
-		<p class="fgentium small clr">&nbsp;</p>
+		<p class="fgentium small clr">Please login to view the article</p>
 		<form method="post" action="login_confirm.php">
 		<div class="registration">
 			<div class="otherp">

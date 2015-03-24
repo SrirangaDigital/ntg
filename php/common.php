@@ -387,7 +387,12 @@ function VerifyCredentials($lemail, $lpassword)
 		$_SESSION['email'] = $lemail;
 		$_SESSION['valid'] = 1;
 		
-        @header("Location: volumes.php");
+       if(isset($_SESSION['refererUrl'])){
+            @header("Location: " . $_SESSION['refererUrl']);
+        }
+        else{
+            @header("Location: volumes.php");
+        }
 		exit;
 	}
 	else

@@ -1,5 +1,7 @@
 <?php
 
+require_once('include_requireLogin.php');
+
 require_once("connect.php");
 require_once("common.php");
 
