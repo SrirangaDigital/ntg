@@ -12,3 +12,4 @@ echo "CREATE TABLE IF NOT EXISTS reset (hash varchar(100), email varchar(100), n
 perl insert_author.pl $host $db $usr $pwd
 perl insert_feat.pl $host $db $usr $pwd
 perl insert_articles.pl $host $db $usr $pwd
+perl ocr.pl $host $db $usr $pwd
