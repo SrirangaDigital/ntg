@@ -68,22 +68,26 @@ if($num_rows)
 			' . htmlentities('नटरंग') . '<br />
 			<span class="sml">' . htmlentities('भारतीय रंगमंच का त्रैमासिक') . '</span>
 		</p>
-		<div>
-			<p class="issue">' . htmlentities($issueDetails) . '</p>
-			<p class="feature">' . htmlentities($featureDetails) . '</p>
-			<p class="title">' . htmlentities($row['title']) . '</p>
-			<p class="author">&#8212;' . htmlentities($row['authorname']) . '</p>
-		</div>
+		<div>';
+		
+		$html .= '<p class="issue">' . htmlentities($issueDetails) . '</p>';
+		$html .= '<p class="feature">' . htmlentities($featureDetails) . '</p>';
+		$html .= '<p class="title">' . htmlentities($row['title']) . '</p>';
+		$html .= ($row['authorname']) ? '<p class="author">&#8212;' . htmlentities($row['authorname']) . '</p>' : '';
+	
+	$html .= '</div>
 	</div>
 	<div>
 		<p class="credit">
-			<br />
-			12<sup>th</sup> March 2015 08:15 PM IST<br />
-			This article is downloaded from Natarang archives (http://www.natarang.org/).<br />
+			<br />';
+	$html .= date('j') . '<sup>' . date('S') . '</sup>' . date(' F Y h:i A T');	
+			// 12<sup>th</sup> March 2015 08:15 PM IST<br />
+	
+	$html .= '<br />This article is downloaded from Natarang archives (http://www.natarang.org/).<br />
 			All rights reserved.
 		</p>
-	</div>
-	';
+	</div>';
+
 	//==============================================================
 	//==============================================================
 	//==============================================================
