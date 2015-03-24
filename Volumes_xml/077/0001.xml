@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/077/0001.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/077/0001.djvu" type="image/x.djvu" height="4410" width="3308" usemap="0001.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="417,1589,1127,1411">नटरग</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="435,1801,683,1724">भारतीय</WORD>
+              <WORD coords="713,1801,926,1728">रंगमंच</WORD>
+              <WORD coords="954,1801,1057,1744">का</WORD>
+              <WORD coords="1085,1802,1372,1716">त्रेमासिक</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="429,1979,703,1884">पुसु-गौरी,</WORD>
+              <WORD coords="749,1965,1032,1883">अंक-७७</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="430,2140,579,2044">मार्च,</WORD>
+              <WORD coords="639,2131,674,2071">२</WORD>
+              <WORD coords="688,2117,727,2079">०</WORD>
+              <WORD coords="741,2117,781,2078">०</WORD>
+              <WORD coords="792,2137,830,2070">६</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="437,3410,639,3344">संपादक</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="440,3523,657,3440">अशोक</WORD>
+              <WORD coords="692,3515,951,3439">वाजपेयी</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="435,3633,590,3556">रयिम</WORD>
+              <WORD coords="620,3626,878,3549">वाजपेयी</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0001.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

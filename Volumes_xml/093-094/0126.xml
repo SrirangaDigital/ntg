@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/093-094/0126.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/093-094/0126.djvu" type="image/x.djvu" height="4293" width="3385" usemap="0126.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1571,230,1854,170">नटरंगन्दइ-द्वाद्र</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="422,3590,3072,281">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1972,3745,2061,3704">रला</WORD>
+              <WORD coords="2084,3752,2214,3704">पाठक,</WORD>
+              <WORD coords="2241,3746,2422,3691">दयाशंकर</WORD>
+              <WORD coords="2445,3752,2590,3688">पाण्डेय,</WORD>
+              <WORD coords="2619,3743,2744,3688">अमित</WORD>
+              <WORD coords="2768,3743,2889,3687">मिस्वी</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1431,4026,1515,3980">१२६</WORD>
+              <WORD coords="1539,4019,1564,3986">/</WORD>
+              <WORD coords="1586,4040,2029,3965">जुलाई-दिसम्बर-मय</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0126.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

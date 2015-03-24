@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/068/0000a.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/068/0000a.djvu" type="image/x.djvu" height="4200" width="3160" usemap="0000a.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="0,3888,2972,-1">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="274,4044,713,3891">अयति६ए,</WORD>
+              <WORD coords="739,4021,772,3965">१</WORD>
+              <WORD coords="802,4012,810,3972">(</WORD>
+              <WORD coords="860,4004,870,3961">(</WORD>
+              <WORD coords="892,4000,942,3931">,५</WORD>
+              <WORD coords="970,3927,990,3906">.</WORD>
+              <WORD coords="1726,3998,1746,3961">है</WORD>
+              <WORD coords="2100,3976,2109,3947">है</WORD>
+              <WORD coords="2293,3912,2343,3870">८३</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0000a.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

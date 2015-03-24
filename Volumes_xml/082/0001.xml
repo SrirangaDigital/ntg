@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/082/0001.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/082/0001.djvu" type="image/x.djvu" height="4530" width="3087" usemap="0001.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="772,1335,821,1294">०</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="326,1766,581,1682">भारतीय</WORD>
+              <WORD coords="607,1766,828,1687">रंगमंच</WORD>
+              <WORD coords="854,1768,960,1707">का</WORD>
+              <WORD coords="987,1770,1283,1677">त्रेमासिक</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="317,1940,522,1847">रहि-;</WORD>
+              <WORD coords="535,1950,592,1868">१,</WORD>
+              <WORD coords="635,1938,863,1847">अंक-ए</WORD>
+              <WORD coords="872,1942,912,1872">२</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="317,2115,583,2014">दिसम्बर,</WORD>
+              <WORD coords="637,2105,675,2040">२</WORD>
+              <WORD coords="686,2091,729,2049">०</WORD>
+              <WORD coords="740,2091,783,2048">०</WORD>
+              <WORD coords="794,2103,842,2054">८</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="317,3420,528,3348">संपादक</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="322,3537,547,3449">अशोक</WORD>
+              <WORD coords="579,3533,846,3451">वाजपेयी</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="316,3651,477,3569">रहिम</WORD>
+              <WORD coords="505,3647,770,3565">बाजपेयी</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0001.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

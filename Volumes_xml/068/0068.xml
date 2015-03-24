@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/068/0068.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/068/0068.djvu" type="image/x.djvu" height="4557" width="3308" usemap="0068.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="2522,567,2533,384">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="194,1781,2638,325">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="759,1950,1126,1865">मुआवजे-अमीषा</WORD>
+              <WORD coords="1139,1935,1293,1866">साहनी</WORD>
+              <WORD coords="1317,1933,1323,1887">।</WORD>
+              <WORD coords="1341,1942,1852,1864">निर्देशक…एम.र्क.रैना</WORD>
+              <WORD coords="1875,1947,2047,1871">(1992)</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="275,4173,3124,2279">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0068.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

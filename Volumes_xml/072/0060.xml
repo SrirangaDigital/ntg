@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/072/0060.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/072/0060.djvu" type="image/x.djvu" height="4509" width="3341" usemap="0060.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="460,4147,2876,205">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="437,4268,561,4202">जंगल</WORD>
+              <WORD coords="582,4268,663,4202">देश</WORD>
+              <WORD coords="686,4269,817,4220">हमारा</WORD>
+              <WORD coords="838,4267,847,4223">।</WORD>
+              <WORD coords="876,4271,1401,4203">लेखक-निदेशक-ललित</WORD>
+              <WORD coords="1425,4274,1552,4207">मोहन</WORD>
+              <WORD coords="1578,4281,1783,4226">थपल्याल,</WORD>
+              <WORD coords="1810,4291,2166,4210">प्रस्तुति-साधना</WORD>
+              <WORD coords="2190,4289,2316,4230">नाट्य</WORD>
+              <WORD coords="2340,4275,2448,4231">कला</WORD>
+              <WORD coords="2472,4285,2587,4213">केन्द्र,</WORD>
+              <WORD coords="2616,4278,2862,4214">साहिबाबाद</WORD>
+              <WORD coords="2884,4277,2891,4236">।</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0060.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

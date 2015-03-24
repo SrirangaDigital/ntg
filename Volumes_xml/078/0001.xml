@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/078/0001.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/078/0001.djvu" type="image/x.djvu" height="4541" width="3245" usemap="0001.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="600,1389,613,1388">नं</WORD>
+              <WORD coords="778,1362,828,1321">.</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="328,1792,583,1708">भारतीय</WORD>
+              <WORD coords="609,1792,832,1713">रंगमंच</WORD>
+              <WORD coords="858,1791,967,1730">का</WORD>
+              <WORD coords="993,1792,1290,1700">त्रेमासिक</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="319,1976,608,1873">रडि-२०,</WORD>
+              <WORD coords="647,1963,939,1871">अंक-पुए</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="321,2152,452,2066">जून,</WORD>
+              <WORD coords="502,2132,595,2067">२०</WORD>
+              <WORD coords="607,2138,701,2065">०६</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="326,3452,536,3379">संपादक</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="330,3570,554,3481">अशोक</WORD>
+              <WORD coords="586,3564,857,3480">वाजपेयी</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="323,3685,484,3602">रहिम</WORD>
+              <WORD coords="511,3678,780,3596">वाजपेयी</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0001.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

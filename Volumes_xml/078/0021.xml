@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/078/0021.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/078/0021.djvu" type="image/x.djvu" height="4473" width="3357" usemap="0021.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="308,2019,3136,703">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1176,2216,1311,2147">संध्या,</WORD>
+              <WORD coords="1337,2208,1632,2142">निर्देशक-बी.</WORD>
+              <WORD coords="1659,2215,1817,2142">जयश्री,</WORD>
+              <WORD coords="1843,2221,1986,2145">बंगलूर</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="266,4033,3088,2355">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1089,4259,1248,4187">रुदाली,</WORD>
+              <WORD coords="1275,4251,1592,4184">निर्देशक-उषा</WORD>
+              <WORD coords="1614,4267,1773,4185">गांगुली,</WORD>
+              <WORD coords="1800,4251,2022,4187">कोलकाता</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0021.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

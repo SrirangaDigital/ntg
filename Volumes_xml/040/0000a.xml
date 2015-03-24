@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/040/0000a.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/040/0000a.djvu" type="image/x.djvu" height="4184" width="3128" usemap="0000a.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="2103,224,2358,144">संपादक</WORD>
+              <WORD coords="2394,208,2408,172">:</WORD>
+              <WORD coords="2445,220,2724,140">नेभिचन्द्र.</WORD>
+              <WORD coords="2744,215,2863,141">जैन</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="15,3731,3096,94">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1857,4077,2111,4003">भारतीय</WORD>
+              <WORD coords="2162,4075,2373,4025">श्यामच</WORD>
+              <WORD coords="2415,4074,2496,4025">का</WORD>
+              <WORD coords="2573,4072,2844,3997">प्रेमासिंक</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0000a.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

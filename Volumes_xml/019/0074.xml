@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/019/0074.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/019/0074.djvu" type="image/x.djvu" height="4973" width="3705" usemap="0074.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="826,438,920,361">प्रेस</WORD>
+              <WORD coords="946,456,1204,365">रजिस्ट्रगर</WORD>
+              <WORD coords="1228,438,1361,383">आफ</WORD>
+              <WORD coords="1384,445,1567,363">इंडिया</WORD>
+              <WORD coords="1588,436,1641,363">के</WORD>
+              <WORD coords="1667,455,1778,365">यहाँ</WORD>
+              <WORD coords="1802,446,2021,365">पंजीकृत</WORD>
+              <WORD coords="2045,439,2204,384">आर०</WORD>
+              <WORD coords="2238,451,2368,385">एन०</WORD>
+              <WORD coords="2439,451,2468,384">१</WORD>
+              <WORD coords="2482,432,2516,399">०</WORD>
+              <WORD coords="2533,446,2617,384">५७</WORD>
+              <WORD coords="2626,449,2657,385">३</WORD>
+              <WORD coords="2667,452,2730,373">/६</WORD>
+              <WORD coords="2746,441,2785,384">५</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="504,505,3129,491">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0074.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

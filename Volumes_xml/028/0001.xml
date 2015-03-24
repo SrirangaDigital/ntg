@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/028/0001.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/028/0001.djvu" type="image/x.djvu" height="4500" width="3269" usemap="0001.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1821,3729,2449,3054">हुँ</WORD>
+              <WORD coords="2468,3684,2497,3172">।</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="1800,3863,2050,3782">भारतीय</WORD>
+              <WORD coords="2084,3860,2290,3781">रंगमंच</WORD>
+              <WORD coords="2326,3858,2410,3802">का</WORD>
+              <WORD coords="2444,3858,2711,3772">वैमासिक</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1803,3998,1913,3923">खंड</WORD>
+              <WORD coords="1947,3995,1996,3944">७</WORD>
+              <WORD coords="2033,3998,2148,3921">अंक</WORD>
+              <WORD coords="2190,4005,2285,3939">२८</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="1802,4139,2191,4054">जनवरी-मार्च</WORD>
+              <WORD coords="2244,4149,2273,4079">१</WORD>
+              <WORD coords="2290,4139,2438,4080">९७७</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0001.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

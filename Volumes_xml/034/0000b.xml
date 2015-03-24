@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/034/0000b.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/034/0000b.djvu" type="image/x.djvu" height="4305" width="3385" usemap="0000b.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1412,3472,1554,3414">नटरंग</WORD>
+              <WORD coords="1570,3473,1695,3413">बिकी</WORD>
+              <WORD coords="1710,3473,1775,3429">का</WORD>
+              <WORD coords="1790,3482,1871,3425">एक</WORD>
+              <WORD coords="1889,3471,1989,3428">अन्य</WORD>
+              <WORD coords="2006,3471,2084,3412">केंद्र</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1466,3647,1648,3572">श्रीराम</WORD>
+              <WORD coords="1661,3641,1792,3572">-सेंटर</WORD>
+              <WORD coords="1809,3659,1902,3591">बुक</WORD>
+              <WORD coords="1926,3641,2081,3572">कार्नर</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="1610,3720,1650,3680">४</WORD>
+              <WORD coords="1676,3728,1825,3668">कालेज</WORD>
+              <WORD coords="1847,3726,1938,3667">रोड</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="1529,3815,1624,3756">नयी</WORD>
+              <WORD coords="1648,3825,2035,3756">दिर१ली-११०-०१</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0000b.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

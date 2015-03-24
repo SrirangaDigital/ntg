@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/034/0090.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/034/0090.djvu" type="image/x.djvu" height="4429" width="3385" usemap="0090.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="1003,3218,1031,1226">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1086,1825,1282,1706">रूबी</WORD>
+              <WORD coords="1346,1838,1779,1723">कंस्ट्रक्शन</WORD>
+              <WORD coords="1843,1817,2090,1702">कंपनी</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="1085,1993,1391,1855">७५-सौ,</WORD>
+              <WORD coords="1456,1969,1647,1853">यार्क</WORD>
+              <WORD coords="1711,1983,1932,1855">रट्रीठ</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="1084,2121,1459,2039">कलकत्ता</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1066,2584,1239,2492">नारंग</WORD>
+              <WORD coords="1269,2569,1321,2492">के</WORD>
+              <WORD coords="1350,2580,1469,2486">लिए</WORD>
+              <WORD coords="1522,2585,1704,2478">हार्दिक</WORD>
+              <WORD coords="1734,2589,2060,2487">शुभकामनाएं</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0090.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

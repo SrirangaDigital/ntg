@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/078/0027.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/078/0027.djvu" type="image/x.djvu" height="4436" width="3308" usemap="0027.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="234,4045,3072,199">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1096,4232,1293,4170">बृहन्नला,</WORD>
+              <WORD coords="1319,4220,1760,4152">निदेशेक---चीणापानी</WORD>
+              <WORD coords="1782,4225,1947,4170">चावला,</WORD>
+              <WORD coords="1973,4216,2186,4153">पॉण्डिचेरी</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0027.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

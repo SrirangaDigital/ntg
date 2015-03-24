@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/020/0000a.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/020/0000a.djvu" type="image/x.djvu" height="4319" width="3252" usemap="0000a.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1349,247,1522,186">भारतीय</WORD>
+              <WORD coords="1545,246,1701,193">रंगमंच</WORD>
+              <WORD coords="1728,247,1787,204">का</WORD>
+              <WORD coords="1812,250,2013,190">त्रेमासिक</WORD>
+              <WORD coords="2040,241,2066,216">०</WORD>
+              <WORD coords="2094,253,2262,197">संपादक</WORD>
+              <WORD coords="2291,253,2379,195">माने</WORD>
+              <WORD coords="2405,253,2481,199">चंद्र</WORD>
+              <WORD coords="2505,251,2589,189">जैन</WORD>
+              <WORD coords="2631,238,2655,215">०</WORD>
+              <WORD coords="2693,261,2798,203">मूल्य</WORD>
+              <WORD coords="2821,247,2907,189">तीन</WORD>
+              <WORD coords="2926,244,3029,187">रुपये</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="108,4093,3080,821">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0000a.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

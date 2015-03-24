@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/072/0001.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/072/0001.djvu" type="image/x.djvu" height="4609" width="3389" usemap="0001.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="313,1595,342,1405">।</WORD>
+              <WORD coords="644,1380,695,1338">.</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="185,1822,444,1733">भारतीय</WORD>
+              <WORD coords="477,1820,704,1736">रंगमंच</WORD>
+              <WORD coords="736,1818,848,1755">का</WORD>
+              <WORD coords="880,1820,1183,1724">त्रेमासिक</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="176,1994,338,1903">खंड-</WORD>
+              <WORD coords="345,1999,381,1923">१</WORD>
+              <WORD coords="387,1992,440,1938">र::</WORD>
+              <WORD coords="449,2005,465,1974">हैं</WORD>
+              <WORD coords="509,1992,745,1901">अंक-७</WORD>
+              <WORD coords="753,1993,795,1923">तो</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="179,2177,337,2068">मार्च,</WORD>
+              <WORD coords="383,2166,424,2099">२</WORD>
+              <WORD coords="433,2151,478,2105">०</WORD>
+              <WORD coords="488,2157,581,2095">०४</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="223,3519,450,3461">सम्पादक</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="223,3632,488,3548">नेमिचन्द्र</WORD>
+              <WORD coords="527,3627,645,3540">जैन</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0001.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

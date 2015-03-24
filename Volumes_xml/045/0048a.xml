@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/045/0048a.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/045/0048a.djvu" type="image/x.djvu" height="4356" width="3224" usemap="0048a.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="2322,587,2450,526">संगीत</WORD>
+              <WORD coords="2489,584,2613,542">नाटक</WORD>
+              <WORD coords="2638,587,2828,528">अकादेमी</WORD>
+              <WORD coords="2867,588,2928,544">का</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="2320,689,2477,615">राष्टीय</WORD>
+              <WORD coords="2511,690,2632,631">नाट्य</WORD>
+              <WORD coords="2658,691,2930,616">समारोह--</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1995,2010,2125,1953">कोरस</WORD>
+              <WORD coords="2148,2013,2297,1953">रेपर्टरी</WORD>
+              <WORD coords="2340,2024,2510,1955">थिएटर,</WORD>
+              <WORD coords="2541,2019,2701,1970">स्याल</WORD>
+              <WORD coords="2727,2021,2834,1973">द्वारा</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="1997,2120,2172,2057">चक्रव्यूह</WORD>
+              <WORD coords="2205,2118,2223,2045">(</WORD>
+              <WORD coords="2231,2120,2414,2044">मणिपुरी</WORD>
+              <WORD coords="2421,2117,2439,2044">)</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="1995,2199,2313,2133">लेखक-निर्देशक</WORD>
+              <WORD coords="2336,2199,2439,2158">रतन</WORD>
+              <WORD coords="2460,2201,2589,2144">निम</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="0,2451,2059,89">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="24,4213,3224,2852">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0048a.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

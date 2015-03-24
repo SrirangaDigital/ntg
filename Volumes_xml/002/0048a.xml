@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/002/0048a.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/002/0048a.djvu" type="image/x.djvu" height="4400" width="3209" usemap="0048a.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="374,242,540,169">वहुरूपी</WORD>
+              <WORD coords="559,232,598,172">के</WORD>
+              <WORD coords="623,236,801,166">प्रदर्शनों</WORD>
+              <WORD coords="824,234,864,173">के</WORD>
+              <WORD coords="899,242,1068,175">दूश्यवंध</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="83,665,192,597">टैंगोर</WORD>
+              <WORD coords="212,662,250,601">के</WORD>
+              <WORD coords="271,665,484,598">रक्सकरवी</WORD>
+              <WORD coords="503,664,629,619">नाटक</WORD>
+              <WORD coords="650,665,708,620">का</WORD>
+              <WORD coords="729,666,874,605">खालेद</WORD>
+              <WORD coords="911,669,1058,597">चौधरी</WORD>
+              <WORD coords="1081,671,1177,626">द्वारा</WORD>
+              <WORD coords="1202,668,1333,607">अंकित</WORD>
+              <WORD coords="1355,675,1518,609">दृश्यवंध</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="1630,731,3152,-1">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="130,4399,3146,1105">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0048a.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

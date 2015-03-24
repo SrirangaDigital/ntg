@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/062/0091.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/062/0091.djvu" type="image/x.djvu" height="3765" width="2901" usemap="0091.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="941,1914,1136,1612">से</WORD>
+              <WORD coords="1205,2002,1655,1688">जुहू।</WORD>
+              <WORD coords="1713,2006,2185,1690">हुआ</WORD>
+              <WORD coords="2248,1916,2420,1602">हैं</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="255,2904,2048,2067">सै</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="1218,3364,1674,2966">हुई&apos;&quot;--.,</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="0,3763,2900,-1">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0091.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

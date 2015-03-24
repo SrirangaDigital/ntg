@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/074-076/0120b.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/074-076/0120b.djvu" type="image/x.djvu" height="4379" width="3308" usemap="0120b.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1049,2003,1204,1936">।हुई१1त्-दु</WORD>
+              <WORD coords="1224,2001,1407,1936">वाजपेयी</WORD>
+              <WORD coords="1429,2000,1471,1955">व</WORD>
+              <WORD coords="1494,2004,1645,1937">शमशेर</WORD>
+              <WORD coords="1664,2021,1812,1956">बहादुर</WORD>
+              <WORD coords="1832,2006,1929,1938">सिंह</WORD>
+              <WORD coords="1949,2002,2002,1938">के</WORD>
+              <WORD coords="2021,2004,2124,1956">साथ</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="0,4371,3300,-1">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0120b.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

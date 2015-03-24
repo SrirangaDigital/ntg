@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/001/0016b.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/001/0016b.djvu" type="image/x.djvu" height="4577" width="3333" usemap="0016b.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="2415,1649,2640,1582">मृणालिनी</WORD>
+              <WORD coords="2661,1647,2856,1578">साराभाई</WORD>
+              <WORD coords="2883,1643,2922,1583">के</WORD>
+              <WORD coords="2955,1649,3134,1576">निर्देशन</WORD>
+              <WORD coords="3156,1646,3195,1585">में</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="2415,1741,2603,1675">अमरीकी</WORD>
+              <WORD coords="2647,1740,2901,1671">अभिनेताओं</WORD>
+              <WORD coords="2925,1751,3019,1695">द्वारा</WORD>
+              <WORD coords="3066,1748,3195,1694">प्रस्तुत</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="2503,1832,2843,1785">स्वप्नवासवदचा</WORD>
+              <WORD coords="2866,1829,2905,1770">के</WORD>
+              <WORD coords="2927,1834,2983,1765">दो</WORD>
+              <WORD coords="3006,1837,3103,1787">व्यय</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="124,2043,2316,33">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="376,4547,3210,2615">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0016b.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

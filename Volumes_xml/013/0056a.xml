@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/013/0056a.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/013/0056a.djvu" type="image/x.djvu" height="4725" width="3437" usemap="0056a.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="2961,1867,3017,1112">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="244,4347,3168,177">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="705,4574,897,4495">कलकत्ते</WORD>
+              <WORD coords="928,4560,999,4495">की</WORD>
+              <WORD coords="1025,4559,1301,4495">कलकाकली</WORD>
+              <WORD coords="1345,4583,1485,4511">नाट्य</WORD>
+              <WORD coords="1512,4562,1647,4498">संस्था</WORD>
+              <WORD coords="1677,4562,1744,4513">का</WORD>
+              <WORD coords="1773,4562,1925,4511">प्रकाश</WORD>
+              <WORD coords="1958,4568,2414,4491">प्रदीप-निर्देशिका</WORD>
+              <WORD coords="2442,4583,2565,4494">तृप्ति</WORD>
+              <WORD coords="2594,4558,2742,4488">चैटर्वी</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0056a.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

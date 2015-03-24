@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/074-076/0214c.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/074-076/0214c.djvu" type="image/x.djvu" height="4245" width="3308" usemap="0214c.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="434,3949,2868,181">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1380,4067,1484,4006">पली</WORD>
+              <WORD coords="1502,4067,1597,4006">रेखा</WORD>
+              <WORD coords="1619,4066,1669,4006">के</WORD>
+              <WORD coords="1689,4067,1788,4022">साथ</WORD>
+              <WORD coords="1809,4067,1873,4023">धर</WORD>
+              <WORD coords="1896,4065,1937,4006">में</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0214c.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

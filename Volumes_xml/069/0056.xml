@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/069/0056.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/069/0056.djvu" type="image/x.djvu" height="4485" width="3333" usemap="0056.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="304,3985,3000,301">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="646,4118,882,4070">ताजमहल</WORD>
+              <WORD coords="911,4112,990,4069">का</WORD>
+              <WORD coords="1019,4113,1320,4049">टे-डर-अजय</WORD>
+              <WORD coords="1350,4133,1470,4072">शुक्ल</WORD>
+              <WORD coords="1493,4113,1498,4074">।</WORD>
+              <WORD coords="1530,4116,1901,4052">निर्देशक-योगेश</WORD>
+              <WORD coords="1929,4112,2088,4052">त्रिघाटी</WORD>
+              <WORD coords="2112,4112,2118,4072">।</WORD>
+              <WORD coords="2148,4131,2526,4052">प्रस्तुति-क्षितिज,</WORD>
+              <WORD coords="2556,4111,2654,4051">रीवा</WORD>
+              <WORD coords="2676,4112,2682,4073">।</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0056.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

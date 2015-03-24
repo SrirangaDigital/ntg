@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/077/0048.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/077/0048.djvu" type="image/x.djvu" height="4377" width="3317" usemap="0048.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="1666,4149,3066,3221">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1809,1313,1915,1250">महंत</WORD>
+              <WORD coords="1936,1311,1944,1271">।</WORD>
+              <WORD coords="1973,1311,2288,1250">निदेशक-बाया</WORD>
+              <WORD coords="2312,1317,2421,1250">डिर्क,</WORD>
+              <WORD coords="2450,1314,2574,1247">इन्दोर</WORD>
+              <WORD coords="2607,1319,2745,1251">(म.प्र.)</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="750,3180,825,3122">पूस</WORD>
+              <WORD coords="848,3164,913,3104">की</WORD>
+              <WORD coords="936,3165,1016,3122">रात</WORD>
+              <WORD coords="1046,3176,1185,3107">(एकल</WORD>
+              <WORD coords="1208,3175,1368,3105">नाटय),</WORD>
+              <WORD coords="1401,3182,1569,3122">शाजापुर</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0048.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

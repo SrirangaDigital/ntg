@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/078/0028.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/078/0028.djvu" type="image/x.djvu" height="4457" width="3308" usemap="0028.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1208,4225,1265,4161">बो</WORD>
+              <WORD coords="1287,4223,1386,4159">बोल</WORD>
+              <WORD coords="1407,4231,1509,4159">उठी,</WORD>
+              <WORD coords="1534,4225,1939,4156">निर्देशक…मलयश्री</WORD>
+              <WORD coords="1959,4233,2121,4161">हाशमी,</WORD>
+              <WORD coords="2145,4226,2282,4162">दिल्ली</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="0,4451,3300,-1">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0028.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

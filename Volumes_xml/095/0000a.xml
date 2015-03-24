@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/095/0000a.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/095/0000a.djvu" type="image/x.djvu" height="4208" width="3176" usemap="0000a.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="180,3579,3176,-1">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="249,3898,258,3893">.</WORD>
+              <WORD coords="288,3913,428,3885">।बमरा&quot;</WORD>
+              <WORD coords="454,3891,482,3887">ग्ने</WORD>
+              <WORD coords="512,3905,521,3900">॰</WORD>
+              <WORD coords="555,3892,563,3887">-</WORD>
+              <WORD coords="596,3908,723,3883">य&quot;--</WORD>
+              <WORD coords="759,3902,795,3887">&apos;८</WORD>
+              <WORD coords="842,3899,869,3890">०</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="272,3965,340,3943">,१</WORD>
+              <WORD coords="573,3958,730,3938">१८८३-</WORD>
+              <WORD coords="761,3948,772,3944">३&apos;</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="2010,4207,3176,3581">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0000a.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/091/0072.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/091/0072.djvu" type="image/x.djvu" height="4442" width="3308" usemap="0072.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1156,418,1269,369">नटरंग</WORD>
+              <WORD coords="1287,418,1453,367">प्रतिष्ठान</WORD>
+              <WORD coords="1472,415,1514,365">के</WORD>
+              <WORD coords="1534,418,1629,367">संग्रह</WORD>
+              <WORD coords="1647,415,1683,364">से</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="206,4023,3120,167">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1385,4270,1451,4229">७२</WORD>
+              <WORD coords="1482,4265,1506,4232">/</WORD>
+              <WORD coords="1533,4274,1883,4212">जनवरी८मार्च-२०</WORD>
+              <WORD coords="1892,4276,1946,4230">की</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0072.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/081/0050d.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/081/0050d.djvu" type="image/x.djvu" height="4382" width="3308" usemap="0050d.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="370,4013,2962,240">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="932,4139,1096,4079">खिलजी</WORD>
+              <WORD coords="1120,4138,1186,4097">का</WORD>
+              <WORD coords="1211,4141,1299,4080">दाँत</WORD>
+              <WORD coords="1320,4141,1329,4100">।</WORD>
+              <WORD coords="1358,4139,1491,4080">केपी.</WORD>
+              <WORD coords="1520,4148,1707,4080">सक्सेना,</WORD>
+              <WORD coords="1737,4141,2074,4079">निर्देशक-नीरज</WORD>
+              <WORD coords="2098,4157,2239,4096">कुमार,</WORD>
+              <WORD coords="2270,4139,2391,4096">पटना</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0050d.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

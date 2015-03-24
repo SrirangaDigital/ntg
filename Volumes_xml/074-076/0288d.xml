@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/074-076/0288d.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/074-076/0288d.djvu" type="image/x.djvu" height="4229" width="3308" usemap="0288d.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="1194,1759,3068,241">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="2069,1862,2198,1812">२००३</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1078,3874,1148,3863">…</WORD>
+              <WORD coords="1090,3894,1093,3888">.</WORD>
+              <WORD coords="1046,3944,1165,3907">५</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="335,3949,1539,2125">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="450,4034,587,3974">पद्मश्री</WORD>
+              <WORD coords="608,4034,652,3974">से</WORD>
+              <WORD coords="671,4036,868,3975">सम्मानित</WORD>
+              <WORD coords="888,4039,973,3976">होने</WORD>
+              <WORD coords="994,4037,1043,3976">के</WORD>
+              <WORD coords="1062,4039,1147,3995">बाद</WORD>
+              <WORD coords="1168,4055,1257,3996">जून,</WORD>
+              <WORD coords="1286,4046,1414,3997">२००३</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0288d.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

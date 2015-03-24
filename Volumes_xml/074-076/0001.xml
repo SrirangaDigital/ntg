@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/074-076/0001.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/074-076/0001.djvu" type="image/x.djvu" height="4473" width="3365" usemap="0001.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="467,1568,1194,1378">नटरग</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="480,1777,731,1695">भारतीय</WORD>
+              <WORD coords="764,1781,983,1702">रंगमंच</WORD>
+              <WORD coords="1015,1783,1122,1724">का</WORD>
+              <WORD coords="1154,1793,1446,1697">त्रेमासिक</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="469,1959,747,1855">खेड-तत्,</WORD>
+              <WORD coords="791,1963,1208,1860">अंक-७४-७६</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="467,2122,706,2017">सितंबर,</WORD>
+              <WORD coords="749,2113,787,2049">२</WORD>
+              <WORD coords="798,2099,840,2057">०</WORD>
+              <WORD coords="851,2100,894,2057">०</WORD>
+              <WORD coords="904,2122,944,2049">हैं</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0001.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

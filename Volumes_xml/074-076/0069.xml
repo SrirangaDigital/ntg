@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/074-076/0069.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/074-076/0069.djvu" type="image/x.djvu" height="4441" width="3353" usemap="0069.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1154,3612,1217,3564">यर</WORD>
+              <WORD coords="1273,3612,1365,3565">क्या</WORD>
+              <WORD coords="1422,3612,1508,3563">अब</WORD>
+              <WORD coords="1564,3615,1633,3563">यह</WORD>
+              <WORD coords="1688,3615,1768,3545">बहीं</WORD>
+              <WORD coords="1826,3611,1965,3563">लगा।</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="1154,3708,1216,3641">कि</WORD>
+              <WORD coords="1269,3707,1368,3640">और</WORD>
+              <WORD coords="1424,3719,1573,3641">बदलने</WORD>
+              <WORD coords="1631,3711,1679,3640">नो</WORD>
+              <WORD coords="1733,3710,1839,3639">पहले</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="1154,3819,1238,3755">कुछ</WORD>
+              <WORD coords="1291,3808,1461,3755">व्याख्या</WORD>
+              <WORD coords="1517,3803,1575,3736">की</WORD>
+              <WORD coords="1632,3803,1801,3753">जनमा</WORD>
+              <WORD coords="1846,3805,1902,3734">है।</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0069.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

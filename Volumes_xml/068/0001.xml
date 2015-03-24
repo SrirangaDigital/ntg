@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/068/0001.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/068/0001.djvu" type="image/x.djvu" height="4597" width="3349" usemap="0001.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="516,1015,1266,739">नटरंग</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="539,1211,802,1127">भारतीय</WORD>
+              <WORD coords="833,1209,1061,1128">रंगमंच</WORD>
+              <WORD coords="1092,1207,1200,1146">का</WORD>
+              <WORD coords="1232,1204,1529,1115">त्रेमासिक</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="531,1382,694,1293">रहि-</WORD>
+              <WORD coords="704,1394,823,1315">१७,</WORD>
+              <WORD coords="868,1385,1150,1290">अंकन्दद्ग</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="534,1563,695,1460">मार्च,</WORD>
+              <WORD coords="741,1550,939,1485">२००२</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="554,2880,783,2823">सम्पादक</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="551,2992,817,2908">नेमिचन्द्र</WORD>
+              <WORD coords="859,2988,975,2904">जैन</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0001.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/078/0025.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/078/0025.djvu" type="image/x.djvu" height="4436" width="3308" usemap="0025.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="218,4071,3082,193">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="954,4228,1074,4156">नाईट</WORD>
+              <WORD coords="1094,4222,1218,4156">प्लीज</WORD>
+              <WORD coords="1238,4222,1296,4156">गो</WORD>
+              <WORD coords="1317,4231,1479,4176">फास्टर,</WORD>
+              <WORD coords="1503,4223,1821,4156">निदेशक-नाथ</WORD>
+              <WORD coords="1842,4230,1983,4160">संदाब,</WORD>
+              <WORD coords="2008,4220,2236,4156">कम्बोडिया</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0025.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

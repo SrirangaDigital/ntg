@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/062/0044g.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/062/0044g.djvu" type="image/x.djvu" height="4337" width="3333" usemap="0044g.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="839,226,982,184">मास्टर</WORD>
+              <WORD coords="1014,225,1119,168">फिदा</WORD>
+              <WORD coords="1149,244,1255,166">हुसेन</WORD>
+              <WORD coords="1286,223,1326,166">से</WORD>
+              <WORD coords="1358,224,1669,171">संवाद-नारंग</WORD>
+              <WORD coords="1700,225,1880,166">प्रतिष्ठान</WORD>
+              <WORD coords="1912,226,2004,181">द्वारा</WORD>
+              <WORD coords="2040,222,2226,166">अग्रेषित</WORD>
+              <WORD coords="2256,221,2425,160">कार्यक्रम</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="276,4041,3012,306">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1500,4153,1603,4096">सोता</WORD>
+              <WORD coords="1634,4172,1788,4113">समुदाय</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0044g.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

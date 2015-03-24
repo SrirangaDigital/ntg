@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/025/0098.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/025/0098.djvu" type="image/x.djvu" height="4673" width="3437" usemap="0098.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="444,432,3034,410">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="767,2092,1154,1862">हिंन्दी</WORD>
+              <WORD coords="1233,2040,1637,1913">नाटक</WORD>
+              <WORD coords="1718,2040,2041,1872">स्वयं&quot;</WORD>
+              <WORD coords="2098,2046,2344,1858">देखे:&apos;</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="762,2364,986,2159">एवं</WORD>
+              <WORD coords="1064,2351,1338,2205">इष्ट</WORD>
+              <WORD coords="1408,2342,1775,2154">मित्रों</WORD>
+              <WORD coords="1856,2334,2048,2154">को</WORD>
+              <WORD coords="2116,2335,2725,2155">दिखलायें</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="2145,3923,2449,3832">अनामिका,</WORD>
+              <WORD coords="2481,3922,2725,3855">कलकत्ता</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="447,4312,3040,4285">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0098.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

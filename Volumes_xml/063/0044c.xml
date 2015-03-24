@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/063/0044c.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/063/0044c.djvu" type="image/x.djvu" height="4368" width="3299" usemap="0044c.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="388,3847,2973,283">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="993,3938,1406,3875">अ-विम-डल-जितेन्द्र</WORD>
+              <WORD coords="1441,3939,1592,3879">मित्तल,</WORD>
+              <WORD coords="1626,3933,1816,3892">कल्चरल</WORD>
+              <WORD coords="1848,3931,2044,3872">सोसायटी</WORD>
+              <WORD coords="2081,3943,2190,3875">आँफ</WORD>
+              <WORD coords="2223,3935,2436,3887">राजस्थान,</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="1187,4040,1324,3983">जयपुर</WORD>
+              <WORD coords="1358,4024,1428,3967">की</WORD>
+              <WORD coords="1461,4040,1620,3968">प्रस्तुति,</WORD>
+              <WORD coords="1654,4026,2068,3964">निदेशक-रामसहाय</WORD>
+              <WORD coords="2100,4021,2239,3963">पारीक</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0044c.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/003/0000a.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/003/0000a.djvu" type="image/x.djvu" height="4407" width="3063" usemap="0000a.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1583,500,2777,148">&apos;ड-नहि::::::-:.--&apos;</WORD>
+              <WORD coords="2864,504,2926,266">1</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1684,685,2034,605">संपग्दऊ</WORD>
+              <WORD coords="2096,679,2113,638">:</WORD>
+              <WORD coords="2200,689,2470,593">नेर्भिचं</WORD>
+              <WORD coords="2484,710,2553,634">ढ</WORD>
+              <WORD coords="2577,695,2747,590">जैम-</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="1608,894,1967,786">भारतीय</WORD>
+              <WORD coords="1986,897,2296,788">रंगमंच</WORD>
+              <WORD coords="2336,900,2478,823">का</WORD>
+              <WORD coords="2504,905,2888,784">बैमास्कि</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="1565,3255,1586,2653">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="22,4406,3006,1992">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0000a.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

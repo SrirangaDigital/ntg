@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/050-052/0048.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/050-052/0048.djvu" type="image/x.djvu" height="4667" width="3308" usemap="0048.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1281,3994,1453,3921">नटरंग</WORD>
+              <WORD coords="1480,3991,1531,3919">के</WORD>
+              <WORD coords="1559,4004,1680,3916">लिए</WORD>
+              <WORD coords="1705,4015,2054,3921">शु-मकामनाएँ</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH coords="369,4047,2960,4033">
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="1282,4170,1498,4098">पारस</WORD>
+              <WORD coords="1540,4170,1704,4069">आर्ट</WORD>
+              <WORD coords="1747,4192,2043,4069">स्टूडियो</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0048.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>

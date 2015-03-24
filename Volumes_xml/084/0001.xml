@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE DjVuXML PUBLIC "-//W3C//DTD DjVuXML 1.1//EN" "pubtext/DjVuXML-s.dtd">
+<DjVuXML>
+<HEAD>file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/084/0001.djvu</HEAD>
+<BODY>
+<OBJECT data="file://localhost/home/sriranga/Desktop/suresh/ntg/Volumes/084/0001.djvu" type="image/x.djvu" height="4386" width="3080" usemap="0001.djvu" >
+<PARAM name="DPI" value="400" />
+<PARAM name="GAMMA" value="2.200000" />
+    <HIDDENTEXT>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="735,1446,784,1407">०</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="306,1867,554,1780">भारतीय</WORD>
+              <WORD coords="578,1864,792,1785">रंगमंच</WORD>
+              <WORD coords="817,1861,922,1800">का</WORD>
+              <WORD coords="946,1859,1234,1770">त्रेमासिक</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="300,2034,499,1943">खेड-;</WORD>
+              <WORD coords="510,2044,566,1963">१,</WORD>
+              <WORD coords="607,2028,828,1940">अंक-ए</WORD>
+              <WORD coords="837,2021,876,1960">४</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="303,2206,561,2107">दिसम्बर,</WORD>
+              <WORD coords="608,2195,647,2128">२</WORD>
+              <WORD coords="657,2179,699,2136">०</WORD>
+              <WORD coords="709,2178,751,2135">०</WORD>
+              <WORD coords="761,2191,807,2127">री</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="312,2867,547,2796">संस्थापक</WORD>
+              <WORD coords="586,2865,810,2809">सम्पादक</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="312,2978,404,2921">स्व.</WORD>
+              <WORD coords="437,2976,661,2898">नेमिचन्द्र</WORD>
+              <WORD coords="687,2973,788,2894">जैन</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+      <PAGECOLUMN>
+        <REGION>
+          <PARAGRAPH>
+            <LINE>
+              <WORD coords="316,3342,547,3286">सम्पादक</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="322,3449,510,3373">अशोक</WORD>
+              <WORD coords="529,3447,747,3369">बाजपेयी</WORD>
+            </LINE>
+            <LINE>
+              <WORD coords="320,3561,453,3484">रश्मि</WORD>
+              <WORD coords="478,3558,695,3481">बाजपेयी</WORD>
+            </LINE>
+          </PARAGRAPH>
+        </REGION>
+      </PAGECOLUMN>
+    </HIDDENTEXT>
+</OBJECT>
+<MAP name="0001.djvu" >
+</MAP>
+</BODY>
+</DjVuXML>
