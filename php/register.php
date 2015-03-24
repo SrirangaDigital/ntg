@@ -118,7 +118,7 @@ if($num == 0)
 		echo "<p class=\"fgentium small clr\">Registration Successful!</p>";		
 		echo "<div class=\"fgentium small regs\" style=\"text-align: left\">";
 		echo "<p>Thank you for registering!</p>";
-		echo "<p class=\"clr2\"><a href=\"volumes.php\">Click here to continue browsing</a></p>";
+		echo "<p class=\"clr2\"><a href=\"" . $_SESSION['refererUrl'] . "\">Click here to continue browsing</a></p>";
 		echo "</div>";
 	}
 }
