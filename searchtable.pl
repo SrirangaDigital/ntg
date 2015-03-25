@@ -21,7 +21,7 @@ $sth11->finish();
 $sth11=$dbh->prepare("CREATE TABLE searchtable(title varchar(500),
 authid varchar(200),
 authorname varchar(1000),
-featid varchar(10),
+featid varchar(100),
 text varchar(5000),
 page varchar(10),
 page_end varchar(10),
