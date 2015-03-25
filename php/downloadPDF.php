@@ -67,21 +67,23 @@ if($num_rows)
 		<img src="images/nt5.png" class="flow"/>
 		<img src="images/logo.png" class="logo"/>
 		<p class="heading">
-			' . htmlentities('नटरंग') . '<br />
-			<span class="sml">' . htmlentities('भारतीय रंगमंच का त्रैमासिक') . '</span>
+			' . 'नटरंग' . '<br />
+			<span class="sml">' . 'भारतीय रंगमंच का त्रैमासिक' . '</span>
 		</p>
 		<div>';
 		
-		$html .= '<p class="issue">' . htmlentities($issueDetails) . '</p>';
-		$html .= '<p class="feature">' . htmlentities($featureDetails) . '</p>';
-		$html .= '<p class="title">' . htmlentities($row['title']) . '</p>';
-		$html .= ($row['authorname']) ? '<p class="author">&#8212;' . htmlentities($row['authorname']) . '</p>' : '';
+		$html .= '<p class="issue">' . $issueDetails . '</p>';
+		$html .= '<p class="feature">' . $featureDetails . '</p>';
+		$html .= '<p class="title">' . $row['title'] . '</p>';
+		$html .= ($row['authorname']) ? '<p class="author">&#8212;' . $row['authorname'] . '</p>' : '';
 	
 	$html .= '</div>
 	</div>
 	<div>
 		<p class="credit">
 			<br />';
+
+	date_default_timezone_set( 'Asia/Calcutta' );
 	$html .= date('j') . '<sup>' . date('S') . '</sup>' . date(' F Y h:i A T');	
 			// 12<sup>th</sup> March 2015 08:15 PM IST<br />
 	
