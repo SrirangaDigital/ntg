@@ -7,12 +7,12 @@ $pwd = $ARGV[3];
 
 use DBI();
 
-open(IN,"ntg.xml") or die "can't open ntg.xml\n";
+open(IN,"<:utf8","ntg.xml") or die "can't open ntg.xml\n";
 
 my $dbh=DBI->connect("DBI:mysql:database=$db;host=$host","$usr","$pwd");
-#~ $sth_enc=$dbh->prepare("set names utf8");
-#~ $sth_enc->execute();
-#~ $sth_enc->finish();
+$sth_enc=$dbh->prepare("set names utf8");
+$sth_enc->execute();
+$sth_enc->finish();
 
 $sth_drop=$dbh->prepare("DROP TABLE IF EXISTS feature;");
 $sth_drop->execute();

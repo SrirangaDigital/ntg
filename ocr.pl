@@ -10,9 +10,9 @@ print "Test OCR\n";
 use DBI();
 
 my $dbh=DBI->connect("DBI:mysql:database=$db;host=$host","$usr","$pwd");
-#~ $sth_enc=$dbh->prepare("set names utf8");
-#~ $sth_enc->execute();
-#~ $sth_enc->finish();
+$sth_enc=$dbh->prepare("set names utf8");
+$sth_enc->execute();
+$sth_enc->finish();
 
 $sth11=$dbh->prepare("drop table if exists testocr");
 $sth11->execute();
@@ -38,7 +38,7 @@ for($i1=0;$i1<@issue;$i1++)
 		{
 			$inum = $issue[$i1];
 			$cur_page = $files[$i3];
-			open(DATA,"Text/$inum/$cur_page")or die ("cannot open Text/$inum/$cur_page");
+			open(DATA,"<:utf8","Text/$inum/$cur_page")or die ("cannot open Text/$inum/$cur_page");
 			
 			local $/;
 			$content = <DATA>;
