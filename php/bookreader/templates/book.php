@@ -1,7 +1,9 @@
 <?php session_start();	?>
 <!DOCTYPE HTML>
 <html manifest="appcache.manifest">
+<!--
 <meta http-equiv="refresh" content="5">
+-->
 <head>
 
     <title>$book['Title']</title>
