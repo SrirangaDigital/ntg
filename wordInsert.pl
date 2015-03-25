@@ -10,7 +10,9 @@ print "Word Insertion\n";
 use DBI();
 
 my $dbh=DBI->connect("DBI:mysql:database=$db;host=$host","$usr","$pwd");
-$dbh->do('SET NAMES utf8');
+#~ $sth_enc=$dbh->prepare("set names utf8");
+#~ $sth_enc->execute();
+#~ $sth_enc->finish();
 
 $sth11=$dbh->prepare("drop table if exists word");
 $sth11->execute();
