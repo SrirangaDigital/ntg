@@ -86,15 +86,15 @@ else
 }
 
 $query = "select * from author where authorname like '$letter%' order by authorname";
-$result = mysql_query($query);
+$result = $mysqli->query($query);
 
-$num_rows = mysql_num_rows($result);
+$num_rows = $result->num_rows;
 
 if($num_rows)
 {
 	for($i=1;$i<=$num_rows;$i++)
 	{
-		$row=mysql_fetch_assoc($result);
+		$row=$result->fetch_assoc();
 
 		$authid=$row['authid'];
 		$authorname=$row['authorname'];

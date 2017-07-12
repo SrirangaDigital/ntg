@@ -8,12 +8,12 @@ require_once("common.php");
 $titleid=$_GET['titleid'];
 
 $query = 'select * from article where titleid=\'' . $titleid . '\'';
-$result = mysql_query($query);
-$num_rows = mysql_num_rows($result);
+$result = $mysqli->query($query);
+$num_rows = $result->num_rows;
 
 if($num_rows)
 {
-	$row=mysql_fetch_assoc($result);
+	$row=$result->fetch_assoc();
 
 	$issueDetails = getIssueDetails($row['volume'], $row['issue'], $row['year'], $row['month']);
 	$featureDetails = getFeatures($row['featid']);

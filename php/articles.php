@@ -90,14 +90,14 @@ else
 }
 
 $query = "select * from article where title like '$letter%' order by title, volume, issue, page";
-$result = mysql_query($query);
-$num_rows = mysql_num_rows($result);
+$result = $mysqli->query($query);
+$num_rows = $result->num_rows;
 
 if($num_rows)
 {
 	for($i=1;$i<=$num_rows;$i++)
 	{
-		$row=mysql_fetch_assoc($result);
+		$row=$result->fetch_assoc();
 
 		$titleid=$row['titleid'];
 		$title=$row['title'];

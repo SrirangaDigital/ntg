@@ -37,20 +37,20 @@ require_once("connect.php");
 require_once("common.php");
 
 $query = "select distinct issue from article order by issue";
-$result = mysql_query($query);
+$result = $mysqli->query($query);
 
-$num_rows = mysql_num_rows($result);
+$num_rows = $result->num_rows;
 
 if($num_rows)
 {
 	for($i=1;$i<=$num_rows;$i++)
 	{
-		$row=mysql_fetch_assoc($result);
+		$row=$result->fetch_assoc();
 		$issue=$row['issue'];
 
 		$query1 = "select * from article where issue='$issue'";
-		$result1 = mysql_query($query1);
-		$row1=mysql_fetch_assoc($result1);
+		$result1 = $mysqli->query($query1);
+		$row1=$result1->fetch_assoc();
 
 		$volume=$row1['volume'];
 		$year=$row1['year'];

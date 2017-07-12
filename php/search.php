@@ -54,15 +54,15 @@ require_once("connect.php");
 require_once("common.php");
 
 $query1 = "select * from feature order by feat_name";
-$result1 = mysql_query($query1);
+$result1 = $mysqli->query($query1);
 
-$num_rows1 = mysql_num_rows($result1);
+$num_rows1 = $result1->num_rows;
 
 if($num_rows1)
 {
 	for($i=1;$i<=$num_rows1;$i++)
 	{
-		$row1=mysql_fetch_assoc($result1);
+		$row1=$result1->fetch_assoc();
 
 		$feature=$row1['feat_name'];
 		$featid=$row1['featid'];
@@ -91,15 +91,15 @@ if($num_rows1)
 <?php
 
 $query = "select distinct year from article order by year";
-$result = mysql_query($query);
+$result = $mysqli->query($query);
 
-$num_rows = mysql_num_rows($result);
+$num_rows = $result->num_rows;
 
 if($num_rows)
 {
 for($i=1;$i<=$num_rows;$i++)
 {
-	$row=mysql_fetch_assoc($result);
+	$row=$result->fetch_assoc();
 
 	$year=$row['year'];
 	echo "<option value=\"$year\">".engtohin_issue($year)."</option>";
@@ -113,15 +113,15 @@ for($i=1;$i<=$num_rows;$i++)
 										<option value="">&nbsp;</option>
 
 <?php
-$result = mysql_query($query);
+$result = $mysqli->query($query);
 
-$num_rows = mysql_num_rows($result);
+$num_rows = $result->num_rows;
 
 if($num_rows)
 {
 for($i=1;$i<=$num_rows;$i++)
 {
-	$row=mysql_fetch_assoc($result);
+	$row=$result->fetch_assoc();
 
 	$year=$row['year'];
 	echo "<option value=\"$year\">".engtohin_issue($year)."</option>";

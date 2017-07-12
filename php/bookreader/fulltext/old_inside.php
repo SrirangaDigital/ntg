@@ -16,7 +16,7 @@
 	while($row = mysql_fetch_assoc($result))
 	{
 		$query1 = "select * from word where word regexp '$qtext' and pagenum = ".$row["cur_page"];
-		$result1 = mysql_query($query1);
+		$result1 = $mysqli->query($query1);
 		$cord = array();
 		$array = "";
 		$row["text"] = txtTrimer($row["text"] , $qtext);

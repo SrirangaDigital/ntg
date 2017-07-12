@@ -11,19 +11,19 @@
 		$textFilter .= $texts[$ic] . "* ";
 	}
 	$query = "SELECT * FROM searchtable WHERE MATCH (text) AGAINST ('$textFilter' IN BOOLEAN MODE) and cur_page NOT REGEXP '[a-z]' and issue = '$issue'";
-	$result = mysql_query($query); 
-	$num_rows = $result ? mysql_num_rows($result) : 0;
+	$result = $mysqli->query($query); 
+	$num_rows = $result ? $result->num_rows : 0;
 	for($a=1;$a<=$num_rows;$a++)
 	{
-		$row = mysql_fetch_assoc($result);
+		$row = $result->fetch_assoc();
 		$query1 = "select * from word where match (word) AGAINST ('$textFilter' IN BOOLEAN MODE) and issue = '".$issue."' and pagenum = '".$row["cur_page"]."'" ;
-		$result1 = mysql_query($query1);
-		$num_rows1 = mysql_num_rows($result1);
+		$result1 = $mysqli->query($query1);
+		$num_rows1 = $result1->num_rows;
 		$cord = array();
 		$array = "";
 		for($b = 0; $b < $num_rows1; $b++)
 		{
-			$row1=mysql_fetch_assoc($result1);
+			$row1=$result1->fetch_assoc();
 			$cord[] = array("l" => $row1['l'],"b" => $row1["b"],"r" => $row1["r"],"t" => $row1["t"]);
 		}
 		$row1["text"] = "Text Found in";

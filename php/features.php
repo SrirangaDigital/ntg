@@ -41,14 +41,14 @@ require_once("connect.php");
 require_once("common.php");
 
 $query = "select * from feature order by feat_name";
-$result = mysql_query($query);
-$num_rows = mysql_num_rows($result);
+$result = $mysqli->query($query);
+$num_rows = $result->num_rows;
 
 if($num_rows)
 {
 	for($i=1;$i<=$num_rows;$i++)
 	{
-		$row=mysql_fetch_assoc($result);
+		$row=$result->fetch_assoc();
 
 		$feat_name=$row['feat_name'];
 		$featid=$row['featid'];

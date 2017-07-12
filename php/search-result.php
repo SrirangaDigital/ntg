@@ -144,8 +144,8 @@ elseif($text != '')
 			WHERE year between $year1 and $year2 ORDER BY year, month, cur_page";
 }
 
-$result = mysql_query($query) or die(mysql_error());
-$num_rows = mysql_num_rows($result);
+$result = $mysqli->query($query);
+$num_rows = $result->num_rows;
 $id = 0;
 if($num_rows > 0)
 {
@@ -154,7 +154,7 @@ if($num_rows > 0)
 	echo "<ul class=\"gap_above\">";
 	for($i=1;$i<=$num_rows;$i++)
 	{
-		$row=mysql_fetch_assoc($result);
+		$row=$result->fetch_assoc();
 		if($text!=''){$cur_page = $row['cur_page'];}
 		if($i != 1 && (strcmp($id, $row['titleid'])) != 0)
 		{

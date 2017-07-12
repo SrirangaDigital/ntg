@@ -89,24 +89,24 @@ elseif(isset($_GET['reset']))
         $npwd = sha1($salt.$pwd);
         
         $query_aux = "select * from reset where hash='$reset'";
-        $result_aux = mysql_query($query_aux);        
-        $num_rows_aux = mysql_num_rows($result_aux);
+        $result_aux = $mysqli->query($query_aux);        
+        $num_rows_aux = $result_aux->num_rows;
         
         if($num_rows_aux > 0)
         {
-            $row_aux=mysql_fetch_assoc($result_aux);
+            $row_aux=$result_aux->fetch_assoc();
 
             $email=$row_aux['email'];
             $name=$row_aux['name'];        
             $pwd=$row_aux['password'];        
         
             $query = "UPDATE details set password='$npwd' where email='$email' and name='$name'";
-            $result = mysql_query($query);
+            $result = $mysqli->query($query);
             
-            if((mysql_affected_rows() == 1) || ($npwd == $pwd))
+            if(($result) || ($npwd == $pwd))
             {
                 $query = "DELETE from reset where hash='$reset' and email='$email' and name='$name'";
-                $result = mysql_query($query);
+                $result = $mysqli->query($query);
             
                 echo "<p class=\"fgentium small clr\">Password sucessfully reset.<br /><br /><a href=\"login.php\">Click here to login.</a></p>";
                 $from = $supportEmail;

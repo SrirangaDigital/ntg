@@ -44,8 +44,8 @@ $issue=$_GET['issue'];
 $month_name = array("1"=>"January","2"=>"February","3"=>"March","4"=>"April","5"=>"May","6"=>"June","7"=>"July","8"=>"August","9"=>"September","10"=>"October","11"=>"November","12"=>"December");
 
 $query = "select distinct year,month from article where volume='$volume' and issue='$issue'";
-$result = mysql_query($query);
-$row=mysql_fetch_assoc($result);
+$result = $mysqli->query($query);
+$row=$result->fetch_assoc();
 $month=$row['month'];
 $year=$row['year'];
 
@@ -54,15 +54,15 @@ echo "";
 echo "<ul class=\"gap_above\">";
 
 $query = "select * from article where volume='$volume' and issue='$issue' order by page, page_end";
-$result = mysql_query($query);
+$result = $mysqli->query($query);
 
-$num_rows = mysql_num_rows($result);
+$num_rows = $result->num_rows;
 
 if($num_rows)
 {
 	for($i=1;$i<=$num_rows;$i++)
 	{
-		$row=mysql_fetch_assoc($result);
+		$row=$result->fetch_assoc();
 
 		$titleid=$row['titleid'];
 		$title=$row['title'];

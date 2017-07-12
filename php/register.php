@@ -99,8 +99,8 @@ echo '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www
 include("connect.php");
 
 $query_l2 = "select count(*) from details where email='$email'";
-$result_l2 = mysql_query($query_l2);
-$row_l2=mysql_fetch_assoc($result_l2);
+$result_l2 = $mysqli->query($query_l2);
+$row_l2=$result_l2->fetch_assoc();
 $num=$row_l2['count(*)'];
 
 if($num == 0)
@@ -108,7 +108,7 @@ if($num == 0)
 	$salt = "shankara";
 	$pwd = sha1($salt.$pwd);
 	$query = "INSERT INTO details values('$name','$email','$info','$pwd','','','0','1','')";
-	$result = mysql_query($query);
+	$result = $mysqli->query($query);
 
 	if($result)
 	{

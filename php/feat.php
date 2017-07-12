@@ -45,15 +45,15 @@ echo "<h2>$feat_name / " . uiConvertText($feat_name) . "</h2>";
 echo "<ul class=\"gap_above\">";
 
 $query = "select * from article where featid regexp '$featid' order by volume, issue, page";
-$result = mysql_query($query);
+$result = $mysqli->query($query);
 
-$num_rows = mysql_num_rows($result);
+$num_rows = $result->num_rows;
 
 if($num_rows)
 {
 	for($i=1;$i<=$num_rows;$i++)
 	{
-		$row=mysql_fetch_assoc($result);
+		$row=$result->fetch_assoc();
 
 		$titleid=$row['titleid'];
 		$title=$row['title'];

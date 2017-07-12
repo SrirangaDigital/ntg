@@ -19,11 +19,11 @@ if(isset($_POST['pr_email']))
         $to = $pr_email;
 
         $query_l2 = "select password,name,email from details where email='$pr_email'";
-        $result_l2 = mysql_query($query_l2);
-        $num_rows_l2 = mysql_num_rows($result_l2);
+        $result_l2 = $mysqli->query($query_l2);
+        $num_rows_l2 = $result_l2->num_rows;
         if($num_rows_l2 > 0)
         {
-            $row_l2=mysql_fetch_assoc($result_l2);
+            $row_l2=$result_l2->fetch_assoc();
 
             $pwd=$row_l2['password'];
             $name=$row_l2['name'];
@@ -33,7 +33,7 @@ if(isset($_POST['pr_email']))
             $hash = sha1($pwd.$name.$email.$tstamp);
             
             $query_l3 = "INSERT INTO reset values('$hash','$email','$name','$pwd','$tstamp','')";
-            $result_l3 = mysql_query($query_l3);
+            $result_l3 = $mysqli->query($query_l3);
             
             $from = $supportEmail;
             

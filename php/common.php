@@ -2,6 +2,7 @@
 
 function printFeature($featid, $lang, $hlight)
 {
+	include("connect.php");
 	if($featid != "")
 	{
 		$featids = preg_split('/;/',$featid);
@@ -10,8 +11,8 @@ function printFeature($featid, $lang, $hlight)
 		foreach ($featids as $fid)
 		{
 			$query3 = "select feat_name from feature where featid='$fid'";
-			$result3 = mysql_query($query3);		
-			$row3=mysql_fetch_assoc($result3);
+			$result3 = $mysqli->query($query3);		
+			$row3 = $result3->fetch_assoc();
 			$feature=$row3['feat_name'];
 
 			$feature_link = $feature;
@@ -50,6 +51,7 @@ function printFeature($featid, $lang, $hlight)
 
 function printAuthor($authid, $lang, $hlight)
 {
+	include("connect.php");
 	if($hlight == '')
 	{
 		$authorWords = '';
@@ -70,13 +72,13 @@ function printAuthor($authid, $lang, $hlight)
 		foreach ($aut as $aid)
 		{
 			$query2 = "select * from author where authid=$aid";
-			$result2 = mysql_query($query2);
+			$result2 = $mysqli->query($query2);
 
-			$num_rows2 = mysql_num_rows($result2);
+			$num_rows2 = $result2->num_rows;
 
 			if($num_rows2)
 			{
-				$row2=mysql_fetch_assoc($result2);
+				$row2 = $result2->fetch_assoc();
 
 				$authorname=$row2['authorname'];
 			
@@ -376,13 +378,13 @@ function VerifyCredentials($lemail, $lpassword)
 	$lpassword = sha1($salt.$lpassword);
 
 	$query_l2 = "select count(*) from details where email='$lemail' and password='$lpassword'";
-	$result_l2 = mysql_query($query_l2);
-	$row_l2=mysql_fetch_assoc($result_l2);
+	$result_l2 = $mysqli->query($query_l2);
+	$row_l2 = $result_l2->fetch_assoc();
 	$num=$row_l2['count(*)'];
 	if($num > 0)
 	{
 		$query_l3 = "update details set visitcount=visitcount+1 where email='$lemail'";
-		$result_l3 = mysql_query($query_l3);
+		$result_l3 = $mysqli->query($query_l3);
 		
 		$_SESSION['email'] = $lemail;
 		$_SESSION['valid'] = 1;
@@ -406,8 +408,8 @@ function hasResetExpired($reset)
   	include("connect.php");
 	
 	$query_l2 = "select *,count(*) from reset where hash='$reset'";
-	$result_l2 = mysql_query($query_l2);
-	$row_l2=mysql_fetch_assoc($result_l2);
+	$result_l2 = $mysqli->query($query_l2);
+	$row_l2 = $result_l2->fetch_assoc();
 	$num=$row_l2['count(*)'];
 	if ($num == 0)
     {
@@ -420,7 +422,7 @@ function hasResetExpired($reset)
         if(floor(($cstamp - $tstamp) / 3600) > 24)
         {
             $query = "DELETE from reset where timestamp<='$tstamp'";
-            $result = mysql_query($query);            
+            $result = $mysqli->query($query);            
             return True;
         }
         else
@@ -441,6 +443,7 @@ function getIssueDetails($volume, $issue, $year, $month)
 
 function getFeatures($featid)
 {
+	include("connect.php");
 	if($featid != "")
 	{
 		$featids = preg_split('/;/',$featid);
@@ -449,8 +452,8 @@ function getFeatures($featid)
 		foreach ($featids as $fid)
 		{
 			$query3 = "select feat_name from feature where featid='$fid'";
-			$result3 = mysql_query($query3);		
-			$row3=mysql_fetch_assoc($result3);
+			$result3 = $mysqli->query($query3);
+			$row3=$result3->fetch_assoc();
 			$features = $features . ', ' . $row3['feat_name'];
 		}
 
