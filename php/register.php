@@ -107,7 +107,7 @@ if($num == 0)
 {
 	$salt = "shankara";
 	$pwd = sha1($salt.$pwd);
-	$query = "INSERT INTO details values('$name','$email','$info','$pwd','','','0','1','')";
+	$query = "INSERT INTO details values('$name','$email','$info','$pwd','','','0',1,0)";
 	$result = $mysqli->query($query);
 
 	if($result)
