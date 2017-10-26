@@ -8,17 +8,24 @@ $privatekey = "6Lc6KPMSAAAAANrIJ99zGx8wxzdUJ6SwQzk1BgXX";
 $resp = null;
 $error = null;
 
-if (isset($_POST["recaptcha_response_field"])) {
-        $resp = recaptcha_check_answer ($privatekey,
-                                        $_SERVER["REMOTE_ADDR"],
-                                        $_POST["recaptcha_challenge_field"],
-                                        $_POST["recaptcha_response_field"]);
-        if ($resp->is_valid) {
-				
-        } else {
-				@header("Location: login.php?error=11#regForm");
-				exit;
-        }
+if(!isset($_POST['g-recaptcha-response'])) {
+        
+	@header("Location: login.php?error=11#regForm");
+}
+else{
+    
+    $secretKey = "6LcI9TUUAAAAANBORusXxUGtUEJ_NQA0JFl3eZ1N";
+    $ip = $_SERVER['REMOTE_ADDR'];
+    $response=file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=".$secretKey."&response=". $_POST['g-recaptcha-response'] . "&remoteip=".$ip);
+    $responseKeys = json_decode($response,true);
+
+    if(intval($responseKeys["success"])){
+
+    }
+    else{
+
+        @header("Location: login.php?error=11#regForm");
+    }
 }
 
 if(isset($_POST['name'])){$name = $_POST['name'];if($name == ''){@header("Location: login.php?error=4#regForm");exit;}}else{@header("Location: login.php?error=4#regForm");exit;}
@@ -78,6 +85,7 @@ echo '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www
         })
     })
 </script>
+<script src="https://www.google.com/recaptcha/api.js"></script>
 </head>
 <body>
 
@@ -182,13 +190,9 @@ else
 						<label for="cpassword">Confirm Password&nbsp;<span class="clr2">*</span></label><br />
 						<input class="rinput" type="password" name="cpassword" />
 					</li>
-					<li>';
-require_once('recaptchalib.php');
-$publickey = "6Lc6KPMSAAAAAJ-yzoW7_KCxyv2bNEZcLImzc7I8";
-$privatekey = "6Lc6KPMSAAAAANrIJ99zGx8wxzdUJ6SwQzk1BgXX";
-echo recaptcha_get_html($publickey);
-
-echo '					</li>
+					<li>
+                        <div class="g-recaptcha" data-sitekey="6LcI9TUUAAAAAL32HwFrer1FGoG1NkFrvNKjCzgI"></div>
+					</li>
 					<li>
 						<input class="rsubmit" type="submit" name="submit" value="submit"/>
 					</li>
