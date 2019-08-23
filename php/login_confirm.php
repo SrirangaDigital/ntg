@@ -32,7 +32,7 @@ if(isset($_POST['pr_email']))
 
             $hash = sha1($pwd.$name.$email.$tstamp);
             
-            $query_l3 = "INSERT INTO reset values('$hash','$email','$name','$pwd','$tstamp','')";
+            $query_l3 = "INSERT INTO reset values('$hash','$email','$name','$pwd','$tstamp',0)";
             $result_l3 = $mysqli->query($query_l3);
             
             $from = $supportEmail;

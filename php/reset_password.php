@@ -22,6 +22,7 @@ $privatekey = "6Lc6KPMSAAAAANrIJ99zGx8wxzdUJ6SwQzk1BgXX";
 <script type="text/javascript" src="js/jquery-1.9.1.js"></script>
 <script type="text/javascript" src="js/jquery-ui.js"></script>
 <script type="text/javascript" src="js/nav.js"></script>
+<script src='https://www.google.com/recaptcha/api.js'></script>
 </head>
 
 <body>
@@ -64,18 +65,26 @@ elseif(isset($_GET['reset']))
     $isfirst = 1;
     if($error_val == 0)
     {
-    
-        if (isset($_POST["recaptcha_response_field"])) {
-                $isfirst = 0;
-                $resp = recaptcha_check_answer ($privatekey,
-                                                $_SERVER["REMOTE_ADDR"],
-                                                $_POST["recaptcha_challenge_field"],
-                                                $_POST["recaptcha_response_field"]);
-                if ($resp->is_valid) {
-                        
-                } else {
-                        $error_val = 4;
-                }
+        
+        if(!isset($_POST['g-recaptcha-response'])) {
+                
+            $error_val = 4;
+        }
+        else{
+            
+            $isfirst = 0;
+            $secretKey = "6LcI9TUUAAAAANBORusXxUGtUEJ_NQA0JFl3eZ1N";
+            $ip = $_SERVER['REMOTE_ADDR'];
+            $response=file_get_contents("https://www.google.com/recaptcha/api/siteverify?secret=".$secretKey."&response=". $_POST['g-recaptcha-response'] . "&remoteip=".$ip);
+            $responseKeys = json_decode($response,true);
+
+            if(intval($responseKeys["success"])){
+
+            }
+            else{
+
+                $error_val = 4;
+            }
         }
     }
     
@@ -161,12 +170,7 @@ elseif(isset($_GET['reset']))
 						<input class="rinput" type="password" name="cpassword" />
 					</li>
 					<li>
-<?php
-require_once('recaptchalib.php');
-$publickey = "6Lc6KPMSAAAAAJ-yzoW7_KCxyv2bNEZcLImzc7I8";
-$privatekey = "6Lc6KPMSAAAAANrIJ99zGx8wxzdUJ6SwQzk1BgXX";
-echo recaptcha_get_html($publickey);
-?>
+                        <div class="g-recaptcha" data-sitekey="6LcI9TUUAAAAAL32HwFrer1FGoG1NkFrvNKjCzgI"></div>
 					</li>
                     <li>
 						<input class="rsubmit" type="submit" name="submit" value="submit"/>

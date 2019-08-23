@@ -31,6 +31,7 @@ if(isset($_SESSION['valid']))
         })
     })
 </script>
+<script src="https://www.google.com/recaptcha/api.js"></script>
 
 </head>
 
@@ -141,12 +142,7 @@ else
 						<input class="rinput" type="password" name="cpassword" />
 					</li>
 					<li>
-<?php
-require_once('recaptchalib.php');
-$publickey = "6Lc6KPMSAAAAAJ-yzoW7_KCxyv2bNEZcLImzc7I8";
-$privatekey = "6Lc6KPMSAAAAANrIJ99zGx8wxzdUJ6SwQzk1BgXX";
-echo recaptcha_get_html($publickey);
-?>
+                        <div class="g-recaptcha" data-sitekey="6LcI9TUUAAAAAL32HwFrer1FGoG1NkFrvNKjCzgI"></div>
 					</li>
 					<li>
 						<label style="width: 100%;">I hereby agree to the <span class="clr2"><a target="_blank" href="terms.html">Terms and Conditions.</a></span></label>

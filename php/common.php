@@ -407,10 +407,10 @@ function hasResetExpired($reset)
 {
   	include("connect.php");
 	
-	$query_l2 = "select *,count(*) from reset where hash='$reset'";
+	$query_l2 = "select * from reset where hash='$reset'";
 	$result_l2 = $mysqli->query($query_l2);
 	$row_l2 = $result_l2->fetch_assoc();
-	$num=$row_l2['count(*)'];
+	$num=$result_l2->num_rows;
 	if ($num == 0)
     {
         return True;
