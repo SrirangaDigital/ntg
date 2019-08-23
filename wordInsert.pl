@@ -18,7 +18,7 @@ $sth11=$dbh->prepare("drop table if exists word");
 $sth11->execute();
 $sth11->finish(); 
 
-$sth11=$dbh->prepare("CREATE TABLE word(issue varchar(5),
+$sth11=$dbh->prepare("CREATE TABLE word(issue varchar(10),
 height varchar(10),
 width varchar(10),
 pagenum varchar(10),
@@ -26,7 +26,7 @@ l int(10),
 b int(10),
 t int(10),
 r int(10),
-word varchar(50),
+word varchar(250),
 wordid int(10) NOT NULL AUTO_INCREMENT,
 PRIMARY KEY (wordid))AUTO_INCREMENT=1001  ENGINE=MyISAM character set utf8 collate utf8_general_ci");
 $sth11->execute();
@@ -89,7 +89,7 @@ sub insert_word()
 	
 	my($sth1,$sth);
 
-	$sth = $dbh->prepare("insert into word values('$inum','$height','$width','$page','$left','$bottom','$right','$top','$word','')");
+	$sth = $dbh->prepare("insert into word values('$inum','$height','$width','$page','$left','$bottom','$right','$top','$word',null)");
 	$sth->execute();
 	$sth->finish();
 }

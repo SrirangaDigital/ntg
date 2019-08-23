@@ -18,7 +18,7 @@ $sth_drop=$dbh->prepare("DROP TABLE IF EXISTS author");
 $sth_drop->execute();
 $sth_drop->finish();
 
-$sth11=$dbh->prepare("CREATE TABLE author(authorname varchar(400),fname varchar(200),lname varchar(200), authid int(6) auto_increment,  primary key(authid))auto_increment=10001 ENGINE=MyISAM character set utf8 collate utf8_general_ci;");
+$sth11=$dbh->prepare("CREATE TABLE author(authorname varchar(400),fname varchar(200),lname varchar(200), authid int(10) auto_increment,  primary key(authid))auto_increment=10001 ENGINE=MyISAM character set utf8 collate utf8_general_ci;");
 $sth11->execute();
 $sth11->finish(); 
 
@@ -56,7 +56,7 @@ sub insert_authors()
 	$ref=$sth->fetchrow_hashref();
 	if($sth->rows()==0)
 	{
-		$sth1=$dbh->prepare("insert into author values('$authorname','$fname','$lname','')");
+		$sth1=$dbh->prepare("insert into author values('$authorname','$fname','$lname',null)");
 		$sth1->execute();
 		$sth1->finish();
 	}
