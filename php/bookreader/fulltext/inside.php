@@ -16,21 +16,22 @@
 	for($a=1;$a<=$num_rows;$a++)
 	{
 		$row = $result->fetch_assoc();
-		$query1 = "select * from word where match (word) AGAINST ('$textFilter' IN BOOLEAN MODE) and issue = '".$issue."' and pagenum = '".$row["cur_page"]."'" ;
+		$query1 = "select * from word where match (word) AGAINST ('$textFilter' IN BOOLEAN MODE) and issue = '" . $issue . "' and pagenum = '" . $row["cur_page"] . "'" ;
 		$result1 = $mysqli->query($query1);
 		$num_rows1 = $result1->num_rows;
 		$cord = array();
-		$array = "";
+		$array = array();
 		for($b = 0; $b < $num_rows1; $b++)
 		{
 			$row1=$result1->fetch_assoc();
 			$cord[] = array("l" => $row1['l'],"b" => $row1["b"],"r" => $row1["r"],"t" => $row1["t"]);
 		}
+
 		$row1["text"] = "Text Found in";
 		$qtext = "Text";
 		$row1["text"] = preg_replace("/Text/" , "{{{".$qtext."}}}" , $row1["text"]);
 		$array["text"] = $row1["text"];
-		$array["par"][] = array( "page" => $row1["pagenum"] , "boxes" => $cord);
+		$array["par"][] = array( "page" => $row1["pagenum"], "boxes" => $cord);
 		$sd["matches"][] = $array;
 	}
 	echo json_encode($sd);
