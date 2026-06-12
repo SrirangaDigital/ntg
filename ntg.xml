@@ -16793,7 +16793,7 @@
 				</allauthors>
 			</entry>
 			<entry>
-				<title>गुजराती पद्यनाटक</title>
+				<title>गुजराती पद्यनाटक</title> 
 				<feature></feature>
 				<page>0091-0095</page>
 				<allauthors>
@@ -16901,6 +16901,2601 @@
 				<allauthors>
 					<author lname="" fname="">शिवयोगी</author>
 				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="024">
+		<issue inum="095" month="01-06" year="2013">
+			<entry>
+				<title>सम्पादकीय</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors>
+					<author lname="" fname="">अशोक वाजपेयी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुआन हान-चिंग : काल और नाटककार</title>
+				<feature></feature>
+				<page>0007-0008</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>भरी गर्मि में बर्फ़बारी</title>
+				<feature>चीनी नाटक</feature>
+				<page>0009-0020</page>
+				<allauthors>
+					<author lname="" fname="">कुआन हान-चिंग</author>
+					<author lname="" fname="">अशोक लाल</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मायाजाल</title>
+				<feature>चीनी नाटक</feature>
+				<page>0021-0032</page>
+				<allauthors>
+					<author lname="" fname="">कुआन हान-चिंग</author>
+					<author lname="" fname="">अशोक लाल</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ट्राॅट्स्की पढ़ने पर मेरा बहिष्कार किया था मार्क्सवादियों ने</title>
+				<feature></feature>
+				<page>0033-0043</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>आलोक छाया</title>
+				<feature></feature>
+				<page>0044-0056</page>
+				<allauthors>
+					<author lname="" fname="">तापस सेन</author>
+					<author lname="" fname="">सूर्यनाथ सिंह</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>रोशनी का कवि</title>
+				<feature></feature>
+				<page>0057-0059</page>
+				<allauthors>
+					<author lname="" fname="">कुमार राय</author>
+					<author lname="" fname="">सूर्यनाथ सिंह</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>चार अध्याय का नाट्य-रूपान्तर और शम्भु मित्र</title>
+				<feature></feature>
+				<page>0060-0076</page>
+				<allauthors>
+					<author lname="" fname="">साँवली मित्र</author>
+					<author lname="" fname="">डाॅ. रामशंकर द्विवेदी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सुनो हिन्द के रहने वालो</title>
+				<feature>छवि आलेख</feature>
+				<page>0077-0097</page>
+				<allauthors>
+					<author lname="" fname="">रेखा जैन</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>रस की केन्द्रीयता असन्दिग्ध है</title>
+				<feature></feature>
+				<page>0098-0100</page>
+				<allauthors>
+					<author lname="" fname="">नन्दकिशोर आचार्य</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>विविधता और अन्विति का अनोखा संसार</title>
+				<feature></feature>
+				<page>0101-0109</page>
+				<allauthors>
+					<author lname="" fname="">राधावल्लभ त्रिपाठी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>प्रकारान्तर से</title>
+				<feature></feature>
+				<page>0110-0114</page>
+				<allauthors>
+					<author lname="" fname="">देवेन्द्रराज अंकुर</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>बच्चे को नाटक में अपना महत्व समझ में आना चाहिए</title>
+				<feature></feature>
+				<page>0115-0118</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>नाटक - गवरी पर एकाग्र</title>
+				<feature></feature>
+				<page>0119-0127</page>
+				<allauthors>
+					<author lname="" fname="">चन्द्रप्रकाश देवल</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>लुप्त होते लोकनाट्य : ‘पाबू जी री पड़’</title>
+				<feature></feature>
+				<page>0128-0130</page>
+				<allauthors>
+					<author lname="" fname="">डाॅ. अर्जुनदेव चारण</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पत्र</title>
+				<feature></feature>
+				<page>0131-0133</page>
+				<allauthors>
+					<author lname="" fname="">जीवन सिंह</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>देखना : नेपथ्य की आँख़ों से</title>
+				<feature></feature>
+				<page>0134-0135</page>
+				<allauthors>
+					<author lname="" fname="">चन्द्र कुमार</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="096" month="06" year="2014">
+			<entry>
+				<title>सम्पादकिय</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors>
+					<author lname="" fname="">अशोक वाजपेयी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कथा शकुंतला की</title>
+				<feature>नाटक</feature>
+				<page>0006-0080</page>
+				<allauthors>
+					<author lname="" fname="">राधावल्लभ त्रिपाठी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>छवि-वीथी</title>
+				<feature>शकुन्तला-विविध मंचन</feature>
+				<page>0081-0088</page>
+				<allauthors>
+					<author lname="" fname="">नटरंग प्रतिष्ठान के संग्रह से</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>शकुंतला की कथा के मूल सोतों की तलाश</title>
+				<feature>एक और कथा शकुंतला की</feature>
+				<page>0089-0091</page>
+				<allauthors>
+					<author lname="" fname="">राजेश जॊशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>शाकुंतल की पुनर्रचना</title>
+				<feature>कथा शकुंतला की</feature>
+				<page>0092-097</page>
+				<allauthors>
+					<author lname="" fname="">डाॅ. संजय द्विवेदि</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>द्रुश्यकाव्य का सौन्दर्य और पणिक्कर का रंग-वैशिष्ट्य</title>
+				<feature></feature>
+				<page>0098-0104</page>
+				<allauthors>
+					<author lname="" fname="">ज्योतिष जोशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पणिक्कर की रंगचेतना</title>
+				<feature></feature>
+				<page>0105-0110</page>
+				<allauthors>
+					<author lname="" fname="">भारतरत्न भार्गव</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>भारतीय रंगमंच और रंगभाषा</title>
+				<feature></feature>
+				<page>0111-0113</page>
+				<allauthors>
+					<author lname="" fname="">मुन्ना कुमार पाण्डे</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>स्त्री स्वतन्त्रता का प्रश्न</title>
+				<feature>सुरेन्द्र वर्मा के एक नाटक का पुनर्पोठ </feature>
+				<page>0114-0116</page>
+				<allauthors>
+					<author lname="" fname="">रिज़वाना फ़ातिमा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ऐतिहासिक महत्व का दस्तावेज</title>
+				<feature>हिन्दी के सात जब्तशुदा नाटक </feature>
+				<page>0117-0120</page>
+				<allauthors>
+					<author lname="" fname="">हेमंत रमण रवि</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>तीन अकेले साथ-साथ</title>
+				<feature>पुस्तक संमीक्षा</feature>
+				<page>0121-0125</page>
+				<allauthors>
+					<author lname="" fname="">कविता भारत</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सन् सैंतालिस में लगी आग : आज भी उठता है धुआँ</title>
+				<feature></feature>
+				<page>0126-0128</page>
+				<allauthors>
+					<author lname="" fname="">निलेश कुमार दीपक</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पज़ल थियेटर के माध्यम से नई रंगशैली की शुरुआत</title>
+				<feature></feature>
+				<page>0129-0129</page>
+				<allauthors>
+					<author lname="" fname="">विजय कुमार</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अजब नाटकों का गज़ब समारोह</title>
+				<feature>विवेचना का बीसवा राष्ट्रीय नाट्य  समारोह </feature>
+				<page>0130-0133</page>
+				<allauthors>
+					<author lname="" fname="">तनु राय</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>शान्त किन्तु बिखरा हुआ : सारी रात</title>
+				<feature></feature>
+				<page>0134-0135</page>
+				<allauthors>
+					<author lname="" fname="">स्मृति सुमन </author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="097-098" month="07-12" year="2014">
+			<entry>
+				<title>सम्पादकिय</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>गिलहरी रामायण</title>
+				<feature>नाटक</feature>
+				<page>0006-0026</page>
+				<allauthors>
+					<author lname="" fname="">ब.व. कारन्त</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>रंगमंच और हिन्दी समज</title>
+				<feature></feature>
+				<page>0027-0031</page>
+				<allauthors>
+					<author lname="" fname="">ब.व. कारन्त</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>यक्षज्ञान : रंगस्थल की नाट्य -रूढ़ियाँ</title>
+				<feature></feature>
+				<page>0032-00037</page>
+				<allauthors>
+					<author lname="" fname="">ब.व. कारन्त</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अनामिका का हिन्दी नाट्य महोत्सव</title>
+				<feature></feature>
+				<page>0038-0044</page>
+				<allauthors>
+					<author lname="" fname="">ब.व. कारन्त</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कारन्त का रंग अन्तरंग</title>
+				<feature></feature>
+				<page>0045-0052</page>
+				<allauthors>
+					<author lname="" fname="">नीलम मानसिंह</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>रूपात्मक से जीवन्त तक</title>
+				<feature>रंगाधुनिकता का कायाकल्प</feature>
+				<page>0053-0074</page>
+				<allauthors>
+					<author lname="" fname="">नीलम मानसिंह</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>बाबा तेरे रूप अनेक</title>
+				<feature>भारतरत्न भार्गव</feature>
+				<page>0075-0081</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>कारन्त की आत्मदथा को पढ़ते हुए</title>
+				<feature></feature>
+				<page>0082-0089</page>
+				<allauthors>
+					<author lname="" fname="">अपूर्वानन्द</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>निर्मोही पाखी</title>
+				<feature></feature>
+				<page>0090-0095</page>
+				<allauthors>
+					<author lname="" fname="">कृष्ण बिहारी मिश्र</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>यादों के घर में कारन्त</title>
+				<feature>संस्मरण</feature>
+				<page>0096-0098</page>
+				<allauthors>
+					<author lname="" fname="">रेखा जैन</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कारन्त जी की याद</title>
+				<feature></feature>
+				<page>0099-0101</page>
+				<allauthors>
+					<author lname="" fname="">प्रभात त्रिपाठी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कारन्त क ऋण</title>
+				<feature></feature>
+				<page>0102-0104</page>
+				<allauthors>
+					<author lname="" fname="">जावेद अख़्तर खाँ</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ब.व. कारन्त कॊ याद करने की वजह</title>
+				<feature></feature>
+				<page>0105-0110</page>
+				<allauthors>
+					<author lname="" fname="">श्रीकान्त किशोर</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>छवि-वीथी</title>
+				<feature>छवियों में बाबा के रंग</feature>
+				<page>0111-0124</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>संस्क्रत नाटक और रंगमंच का सातत्य</title>
+				<feature>राधावल्लभ त्रिपाठी से ब.ब. कारन्त की बातचीत</feature>
+				<page>0125-0127</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>समकालीन होना नाटक की नियति है</title>
+				<feature>ब.व. कारन्त से अपूर्वानन्द, परवेज अख्तर और श्रीकान्त किशोर की बातचीत</feature>
+				<page>0128-0142</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>प्रकाश के घेरे में अन्धेरे का रंग विमर्श</title>
+				<feature>ब.व. कारन्त से गौतम चटर्जी की बातचीत</feature>
+				<page>0143-0151</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>संगीत के अन्य रूपों से बहुत भिन्न हैं रंग संगीत</title>
+				<feature>ब.व. कारन्त से अलखनन्दन दी रंग संगीत पर बातचीत</feature>
+				<page>0152-0155</page>
+				<allauthors>
+					<author lname="" fname="">अलखनन्दन</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>संगीत मेरे लिए नाटकों में भाषा है</title>
+				<feature>रंग संगीत</feature>
+				<page>0156-0158</page>
+				<allauthors>
+					<author lname="" fname="">ब.व. कारन्त</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>बाबा का रंग संगीत</title>
+				<feature></feature>
+				<page>0159-0164</page>
+				<allauthors>
+					<author lname="" fname="">अलखनन्दन</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कारन्त जी के ध्वनि संयोजन</title>
+				<feature></feature>
+				<page>0165-0168</page>
+				<allauthors>
+					<author lname="" fname="">सत्यव्रत राउत</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ब.व. कारन्त : शकुन्तला की रंगमंचीय रचना प्रक्रिया</title>
+				<feature>प्रलेखन कार्य</feature>
+				<page>0169-0199</page>
+				<allauthors>
+					<author lname="" fname="">हिमांशु बी. जॊशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नटरंग प्रतिष्ठान में कारन्त</title>
+				<feature>प्रलेखन कार्य</feature>
+				<page>0200-0201</page>
+				<allauthors>
+					<author lname="" fname="">नीलेश कुमार दीपक</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>जीवन वृत्त /रंग वृत्त </title>
+				<feature>प्रलेखन कार्य</feature>
+				<page>0202-0210</page>
+				<allauthors>
+					<author lname="" fname="">नीलेश कुमार दीपक</author>
+				</allauthors>
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="025">
+		<issue inum="099" month="01-06" year="2015">
+			<entry>
+				<title>सम्पादकीय</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>पार्क के पीर</title>
+				<feature>नाटक</feature>
+				<page>0006-0029</page>
+				<allauthors>
+					<author lname="" fname="">कृष्ण बलदेव वैद</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>डायरी में नोट्स : कृष्ण बलदेव वैद के दो नाटक</title>
+				<feature>रंग समीक्षा</feature>
+				<page>0030-0039</page>
+				<allauthors>
+					<author lname="" fname="">प्रभात त्रिपाठी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>आत्मकथांश</title>
+				<feature>हबीब तनवीर विशेष</feature>
+				<page>0040-0052</page>
+				<allauthors>
+					<author lname="" fname="">हबीब तनवीर</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हबीब तनवीर</title>
+				<feature></feature>
+				<page>0053-0075</page>
+				<allauthors>
+					<author lname="" fname="">महमूद फारूक़ी</author>
+					<author lname="" fname="">डॉ दुर्गाप्रसाद अग्रवाल</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हबीब तनवीर : ये आपकी चिट्टी</title>
+				<feature></feature>
+				<page>0076-0080</page>
+				<allauthors>
+					<author lname="" fname="">अखिलेश</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ब्रेख़्तियन होने का अर्थ है भारतीय होना - (हबीब तनवीर से आविक घोष की बातचीत)</title>
+				<feature>साक्षात्कार</feature>
+				<page>0081-0085</page>
+				<allauthors>
+					<author lname="" fname="">अविक घोष</author>
+					<author lname="" fname="">आशीष त्रिपाठी</author>
+					<author lname="" fname="">श्यामबाबू</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>समकालीन भारत में लोक रंगमंच - (हबीब तनवीर से बिन्दु बत्रा की बातचीत)</title>
+				<feature></feature>
+				<page>0086-0088</page>
+				<allauthors>
+					<author lname="" fname="">बिन्दु बत्रा</author>
+					<author lname="" fname="">आशीष त्रिपाठी</author>
+					<author lname="" fname="">मीनाक्षी राणा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>‘राजरक्त’ ‘विसर्जन’ की तुलना में अधिक बौद्धिक और युक्तियुक्त - (हबीब तनवीर से दीपा पंजानी की बातचीत)</title>
+				<feature></feature>
+				<page>0089-0091</page>
+				<allauthors>
+					<author lname="" fname="">दीपा पंजानी</author>
+					<author lname="" fname="">आशीष त्रिपाठी</author>
+					<author lname="" fname="">मीनाक्षी राणा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हिन्दी रंगमंच के इतिहास-पुरुष का यादनामा</title>
+				<feature>पण्डित राधेश्याम कथावाचक की १२५वीं जयन्ती पर विशेष</feature>
+				<page>0092-0109</page>
+				<allauthors>
+					<author lname="" fname="">सुधीर विद्यार्थी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>औपनिवेशिक समय, भोजपुरी परिवेश और भिखारी ठाकुर का उदय</title>
+				<feature>लोकमंच</feature>
+				<page>0110-0113</page>
+				<allauthors>
+					<author lname="" fname="">मुन्ना कुमार पाण्डेय</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>छत्तीसगढ़ी लोक साहित्य का वैशिष्ट्य : पंडवानी</title>
+				<feature></feature>
+				<page>0114-0117</page>
+				<allauthors>
+					<author lname="" fname="">कुलीन कुमार जोशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>एकाभिनय के शिखर पर तीजन - (‘पंडवानी’ में द्रौपदी स्वयंवर)</title>
+				<feature></feature>
+				<page>0118-0119</page>
+				<allauthors>
+					<author lname="" fname="">महावीर अग्रवाल</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>जनजागरण में स्वाँग विद्या का योगदान</title>
+				<feature></feature>
+				<page>0120-0122</page>
+				<allauthors>
+					<author lname="" fname="">डाॅ. हनीफ भट् टी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अनुभव का अंगरस</title>
+				<feature>पुस्तकें</feature>
+				<page>0123-0126</page>
+				<allauthors>
+					<author lname="" fname="">डाॅ. ब्रजरतन जोशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>छवि-वीथी : नटरंग प्रतिष्ठान के संग्रह से</title>
+				<feature>लोकरंग</feature>
+				<page>0127-0134</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>नाटक एक रंगमंचीय संकल्पना है</title>
+				<feature>पुस्तकें</feature>
+				<page>0135-0138</page>
+				<allauthors>
+					<author lname="" fname="">अनीश अंकुर</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>बाज़ार से रू-ब-रू ‘आगरा बाज़ार’</title>
+				<feature>पुस्तकें</feature>
+				<page>0139-0141</page>
+				<allauthors>
+					<author lname="" fname="">मोरे केशव माधवराव</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>दिल्ली रंगमंच : दर्शक की डायरी से</title>
+				<feature>रंगजगत</feature>
+				<page>0142-0145</page>
+				<allauthors>
+					<author lname="" fname="">जिनेन्द्र जैन</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>दिल्ली रंगमंच : वर्तमान से सम्वाद</title>
+				<feature>रंगजगत</feature>
+				<page>0146-0149</page>
+				<allauthors>
+					<author lname="" fname="">अमितेश कुमार</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>रंग परसाई-२०१५</title>
+				<feature>रंगजगत</feature>
+				<page>0150-0151</page>
+				<allauthors>
+					<author lname="" fname="">पंकज स्वामी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>एक अनुरोध</title>
+				<feature></feature>
+				<page>0153-0153</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="100-101" month="12" year="2016">
+			<entry>
+				<title>सम्पदकिय</title>
+				<feature>शतांक के अवलर पर</feature>
+				<page>0005-0006</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>बलि और शम्भु</title>
+				<feature>लेेखकीय</feature>
+				<page>0007-0007</page>
+				<allauthors>
+					<author lname="" fname="">मानव कौल</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पात्र</title>
+				<feature></feature>
+				<page>0008-0029</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>जानत तुलसीदास</title>
+				<feature></feature>
+				<page>0030-0064</page>
+				<allauthors>
+					<author lname="" fname="">अविनाशचन्द्र मिश्र</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सम्पदा</title>
+				<feature>लेखकीय</feature>
+				<page>0065-0066</page>
+				<allauthors>
+					<author lname="" fname="">त्रिपुरारी शर्मा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पत्र</title>
+				<feature>घर से दूर</feature>
+				<page>0067-0100</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>छवि-वीथी</title>
+				<feature>इस अंक में प्रकाशित नाटकॊं के मंचन की तस्वीरें</feature>
+				<page>0101-0106</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>इसी दिन इसी वक्त</title>
+				<feature>लेखकीय</feature>
+				<page>0107-0152</page>
+				<allauthors>
+					<author lname="" fname="">अभिराम भडकमकर</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सारा का सारा आसमान</title>
+				<feature></feature>
+				<page>0153-0171</page>
+				<allauthors>
+					<author lname="" fname="">दानिश इक्रबाल</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>श्राद्ध्</title>
+				<feature>लेखकीय</feature>
+				<page>0172-0206</page>
+				<allauthors>
+					<author lname="" fname="">राजेश कुमार</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मंच विस्तार और हिन्दी नाटक</title>
+				<feature>लेख</feature>
+				<page>0207-0212</page>
+				<allauthors>
+					<author lname="" fname="">त्रिपुरारी शर्मा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हिन्दी में नाट्य लेखन की समस्या और प्रदर्शनात्मक नाट्यालेख</title>
+				<feature></feature>
+				<page>0213-0216</page>
+				<allauthors>
+					<author lname="" fname="">रवीन्द्र त्रिपाठी</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="102" month="06" year="2017">
+			<entry>
+				<title>सम्पदकिय</title>
+				<feature></feature>
+				<page>0006-0006</page>
+				<allauthors>
+					<author lname="" fname="">अशोक वाजपेयी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>आनन्द रघुनन्दन</title>
+				<feature>नाटक</feature>
+				<page>0007-0036</page>
+				<allauthors>
+					<author lname="" fname="">महाराज विश्वनाथ </author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नाटक रास्ते की रचना प्रक्रिया</title>
+				<feature>सत्यदेव दुबे विशेष</feature>
+				<page>0037-0047</page>
+				<allauthors>
+					<author lname="" fname="">वागीश कुमार सिंह</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नाटक रास्ते की रिहर्सल के दैनिक कार्यॊ की रिपॊर्ट</title>
+				<feature></feature>
+				<page>0048-0074</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>रंग संवाद</title>
+				<feature>सत्यदेव दुबे से बातचीत</feature>
+				<page>0075-0095</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>छवि-वीथी</title>
+				<feature></feature>
+				<page>0096-0097</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>जम्मू-कश्मीर का हिन्दी नाटक और रंगमंच</title>
+				<feature>लेख</feature>
+				<page>0100-0104</page>
+				<allauthors>
+					<author lname="" fname="">परमेश्वरी शर्मा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>उर्दू नाटक : टूटती कड़ियाँ</title>
+				<feature></feature>
+				<page>0105-0109</page>
+				<allauthors>
+					<author lname="" fname="">सफ़दर इमाम कादरी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>इप्टा के जीतेन्द्र रघुवंशी : एक यादनामा</title>
+				<feature>स्मरण</feature>
+				<page>0110-0112</page>
+				<allauthors>
+					<author lname="" fname="">सुधीर विध्यार्थी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>साहित्य जिन्दगी की कॊख से निकलकर आये तभी वॊ विश्वसनीय हॊ पाता है : भीष्म साहनी</title>
+				<feature>स्मरण</feature>
+				<page>0113-0116</page>
+				<allauthors>
+					<author lname="" fname="">अनीश अंकुर</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>जड़ कॊ जकड़े, नस कॊ पकड़े : भीष्म साहनी</title>
+				<feature>स्मरण</feature>
+				<page>0117-0119</page>
+				<allauthors>
+					<author lname="" fname="">अंकुश शर्मा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>दर्शक की डायरी से</title>
+				<feature>रंगजगत</feature>
+				<page>0120-0123</page>
+				<allauthors>
+					<author lname="" fname="">जिनेन्द्र जैन</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>चार रंग</title>
+				<feature>रंगजगत</feature>
+				<page>0124-0126</page>
+				<allauthors>
+					<author lname="" fname="">संगम पाण्डेय</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>यौवन के संहार का उत्सव और आधा चादँ</title>
+				<feature>रंगजगत</feature>
+				<page>0127-0128</page>
+				<allauthors>
+					<author lname="" fname="">राजेश चन्द्र</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>विवेचना का २२वाँ नाट्य समारॊह</title>
+				<feature>रंगजगत</feature>
+				<page>0129-0131</page>
+				<allauthors>
+					<author lname="" fname="">तनु राय </author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>एक अनुरॊध</title>
+				<feature></feature>
+				<page>0133-0133</page>
+				<allauthors />
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="026">
+		<issue inum="103-104" month="03" year="2018">
+			<entry>
+				<title>सम्पदकिय</title>
+				<feature></feature>
+				<page>0005-0005</page>
+				<allauthors>
+					<author lname="" fname="">अशोक वाजपेयी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>रंग संवाद</title>
+				<feature>प्रलेखन (राजेन्द्र नाथ से बातचीग)</feature>
+				<page>0006-0021</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>रंग स्मरण</title>
+				<feature>अभियान नाट्य दल से बातचीत </feature>
+				<page>0022-0040</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>माल्यांग की कूची</title>
+				<feature>हान शिव द्वारा अनूदित एक चीनी लॊक कथा पर आधरित</feature>
+				<page>0041-0050</page>
+				<allauthors>
+					<author lname="" fname="">रेखा जैन</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>लाया कौन है आग</title>
+				<feature>बालरंग</feature>
+				<page>0051-0055</page>
+				<allauthors>
+					<author lname="" fname="">प्रताप सहगल</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हिरण्यकश्यप मर्डर केस</title>
+				<feature>बालरंग</feature>
+				<page>0056-0068</page>
+				<allauthors>
+					<author lname="" fname="">श्रिकृष्ण</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सी.एल.टी. आंटी और मेरी उमंग</title>
+				<feature>लेख</feature>
+				<page>0069-0072</page>
+				<allauthors>
+					<author lname="" fname="">रेखा जैन</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हिन्दी बाल रंगमंच की शिखर रंगकर्मी : रेखा जैन</title>
+				<feature>लेख</feature>
+				<page>0073-0075</page>
+				<allauthors>
+					<author lname="" fname="">भगवान एन. जाधव</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>डाॅ. श्रिप्रसाद के नाटक : बालमन का आईना</title>
+				<feature>लेख</feature>
+				<page>0076-083</page>
+				<allauthors>
+					<author lname="" fname="">शिवशंकर सिंह</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नाटक बहुत कुछ सिखाते हैं...</title>
+				<feature>लेख</feature>
+				<page>0084-0087</page>
+				<allauthors>
+					<author lname="" fname="">कल्पना बालाजी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>बाल-रंगमंच : सम्भावनाएँ और चुनौतियाँ</title>
+				<feature>लेख</feature>
+				<page>0088-0095</page>
+				<allauthors>
+					<author lname="" fname="">प्रज्ञा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>बच्चॊं कॊ कम न आँके</title>
+				<feature>लेख</feature>
+				<page>0096-0096</page>
+				<allauthors>
+					<author lname="" fname="">शिवम् राय</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>छवि-वीथी</title>
+				<feature>अभियान नाट्य दल, दिल्ली द्वारा प्रस्तुत नाट्कॊं के छायाचित्र</feature>
+				<page>0097-0100</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>छवि-वीथी</title>
+				<feature>बाल रंगमंच पर केन्द्रित नाटकॊं के छायचित्र</feature>
+				<page>0101-0104</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>आलेख, प्रस्तुति एवं अभिनय</title>
+				<feature>लेख</feature>
+				<page>0105-0108</page>
+				<allauthors>
+					<author lname="" fname="">डाॅ. अर्जुन देव चारण</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नन्दकिशॊर आचार्य के नाटकॊं की अन्तर्वस्तु और रंगानुभव</title>
+				<feature>लेख</feature>
+				<page>0109-0113</page>
+				<allauthors>
+					<author lname="" fname="">लहरी राम मीणा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>आधुनिक हिन्दी/भारतीय रंगकर्म के एक चश्मदीद गवाह के हल्फिया बयान की अनुवीक्षा </title>
+				<feature>पुस्तकें</feature>
+				<page>0114-0123</page>
+				<allauthors>
+					<author lname="" fname="">वागीश कुमार सिंह</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>जश्न ए रंग सातवाँ राष्ट्रीय नाट्य उत्सव, कॊलकाता </title>
+				<feature>रंगजगत</feature>
+				<page>0124-0126</page>
+				<allauthors>
+					<author lname="" fname="">प्रेम कपूर</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>प्रथम राष्ट्रीय नाट्य ,अहॊत्सव टीकमगढ</title>
+				<feature></feature>
+				<page>0127-0127</page>
+				<allauthors>
+					<author lname="" fname="">कुमार संजय</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>एक अनुरॊध</title>
+				<feature></feature>
+				<page>0129-0129</page>
+				<allauthors />
+			</entry>
+		</issue>
+		<issue inum="105" month="12" year="2018">
+			<entry>
+				<title>सम्पदकिय</title>
+				<feature></feature>
+				<page>0005-0006</page>
+				<allauthors>
+					<author lname="" fname="">अशोक वाजपेयी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मेमरी लेन</title>
+				<feature>नाटक</feature>
+				<page>0007-0027</page>
+				<allauthors>
+					<author lname="" fname="">चिनु मॊदी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>रंग-स्मरण : दिल्ली आर्ट थियेटर</title>
+				<feature>दिल्ली आर्ट थियेटर के कलाकारॊं से बातचीत</feature>
+				<page>0028-0044</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>संस्क्रुत-काल में रंगमंच पर महिलाओं की उपस्थिति</title>
+				<feature>महिला रंअदर्मी</feature>
+				<page>0045-0050</page>
+				<allauthors>
+					<author lname="" fname="">डाॅ. आशा शर्मा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हिन्दी में महिलाओं का नाट्य- लेखन</title>
+				<feature>महिला रंअदर्मी</feature>
+				<page>0051-0062</page>
+				<allauthors>
+					<author lname="" fname="">डाॅ. दत्तात्रय मॊहिते</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नाटकवाली</title>
+				<feature>महिला रंअदर्मी</feature>
+				<page>0063-0074</page>
+				<allauthors>
+					<author lname="" fname="">डाॅ. दीपा दत्तात्रय कुचेकर</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>छवि-वीथी</title>
+				<feature>दिल्ली आर्ट थियेटर</feature>
+				<page>0075-0078</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>छवि-वीथी</title>
+				<feature>महिला नाटककार</feature>
+				<page>0079-0086</page>
+				<allauthors>
+					<author lname="" fname="">डाॅ. हितेन्द्र कुमार मिश्र</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>प्रज्ञाचक्षु रंगानुभूति</title>
+				<feature>लेख</feature>
+				<page>0087-0090</page>
+				<allauthors>
+					<author lname="" fname="">भारतरत्न भार्गव</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हिन्दी नाटक और रंगमंच</title>
+				<feature>लेख</feature>
+				<page>0091-0095</page>
+				<allauthors>
+					<author lname="" fname="">डाॅ. हितेन्द्र कुमार मिश्र</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हयवदन : पूर्णता और अपूर्णता की पड़ताल </title>
+				<feature>लेख</feature>
+				<page>0096-0098</page>
+				<allauthors>
+					<author lname="" fname="">अमरनाथ प्रजापति</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नन्दकिशॊर आचार्य के नाटकों की रंगभाषा</title>
+				<feature>लेख</feature>
+				<page>0099-0103</page>
+				<allauthors>
+					<author lname="" fname="">लहरीराम मीणा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>वरिष्ठ साहित्यकार नाटक क्यों नहीं लिखते</title>
+				<feature>लेख</feature>
+				<page>0104-0106</page>
+				<allauthors>
+					<author lname="" fname="">प्रताप सहगल</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हिन्दी रंगमंच और महाभॊज</title>
+				<feature>लेख</feature>
+				<page>0107-0109</page>
+				<allauthors>
+					<author lname="" fname="">पुँज प्रकाश</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नाटक में भरत वाक्य</title>
+				<feature>नामवर सिंह से महावीर अग्रवाल की बातचीत</feature>
+				<page>0110-0112</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>कौन जाए ज़ौक़ दिल्ली की गलिया छॊड़कर</title>
+				<feature>रंगजगत</feature>
+				<page>0113-0113</page>
+				<allauthors>
+					<author lname="" fname="">प्रताप सहगल</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>जब मंच पर साकार हॊ उठा एक नाट्य प्रयॊग</title>
+				<feature></feature>
+				<page>0114-0115</page>
+				<allauthors>
+					<author lname="" fname="">वैशाली कटारिया</author>
+				</allauthors>
+			</entry>
+		</issue>
+		<issue inum="112-113-114" month="06-12" year="2021">
+			<entry>
+				<title>सम्पादकीय</title>
+				<feature></feature>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>नुक्कड़ नाटक के आरम्भिक दस वर्ष</title>
+				<feature></feature>
+				<page>0009-0013</page>
+				<allauthors>
+					<author lname="" fname="">सफ़दर हाशमी</author>
+					<author lname="" fname="">डॉ. माहेश्वर</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सफ़दर भविष्य में भी प्रेरणास्त्रोत बने रहेंगे</title>
+				<feature></feature>
+				<page>0014-0017</page>
+				<allauthors>
+					<author lname="" fname="">ज़ाहिद ख़ान</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नुक्कड़ नाटक की परम्परा में सफ़दर हाशमी का ‘हल्ला बोल’</title>
+				<feature></feature>
+				<page>0018-0024</page>
+				<allauthors>
+					<author lname="" fname="">डॉ. नवनाथ सर्जेराव शिंदे</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>समकालीन परिस्थितियों की उपज : सफ़दर हाशमी का ‘मशीन’</title>
+				<feature></feature>
+				<page>0025-0030</page>
+				<allauthors>
+					<author lname="" fname="">आराधना साव</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नुक्कड़ नाटक : परम्परा और प्रयोग</title>
+				<feature></feature>
+				<page>0031-0034</page>
+				<allauthors>
+					<author lname="" fname="">देवेन्द्रराज अंकुर</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नुक्कड़ नाटक : प्रासंगिकता, सम्भावनाएँ एवं चुनौतियाँ</title>
+				<feature></feature>
+				<page>0035-0039</page>
+				<allauthors>
+					<author lname="" fname="">शम्सुल इस्लाम</author>
+					<author lname="" fname="">राजीव आशीष</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>जन मुक्ति के स्वप्न : नुक्कड़ नाटक</title>
+				<feature></feature>
+				<page>0040-0045</page>
+				<allauthors>
+					<author lname="" fname="">प्रज्ञा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>प्रतिरोध की संस्कृति की पहचान, नुक्कड़ की दुनिया</title>
+				<feature></feature>
+				<page>0046-0052</page>
+				<allauthors>
+					<author lname="" fname="">मृत्युंजय प्रभाकर</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>खुद गढ़ना होगा नुक्कड़ नाटकों को अपना व्याकरण और सौंदर्यशास्त्र</title>
+				<feature></feature>
+				<page>0053-0056</page>
+				<allauthors>
+					<author lname="" fname="">धर्मेन्द्र प्रताप सिंह</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>भारतीय नाटक और रंगमंच का टर्निंग प्वाइंट</title>
+				<feature></feature>
+				<page>0057-0063</page>
+				<allauthors>
+					<author lname="" fname="">कमलानंद झा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>शुद्ध ‘जन आन्दोलन’ से ‘मार्केटिंग टूल’ होता नुक्कड़ नाटक</title>
+				<feature></feature>
+				<page>0064-0068</page>
+				<allauthors>
+					<author lname="" fname="">मंजुल भारद्वाज</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>संस्मरण-१ : पहला व अन्तिम नुक्कड़ रंग मेला</title>
+				<feature></feature>
+				<page>0069-0073</page>
+				<allauthors>
+					<author lname="" fname="">भारतरत्न भार्गव</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>संस्मरण-२ : मैं अपना दल नहीं ले जा पाया</title>
+				<feature></feature>
+				<page>0074-0079</page>
+				<allauthors>
+					<author lname="" fname="">अनिल रंजन भौमिक</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नुक्कड़ रंगकर्म : कुछ नोट्स</title>
+				<feature></feature>
+				<page>0080-0081</page>
+				<allauthors>
+					<author lname="" fname="">ब. व. कारन्त</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नटरंग के स्वामित्व सम्बन्धी विवरण</title>
+				<feature></feature>
+				<page>0082-0082</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>केरल में नुक्कड़ नाटक आन्दोलन</title>
+				<feature></feature>
+				<page>0083-0086</page>
+				<allauthors>
+					<author lname="" fname="">रेनू रामनाथ</author>
+					<author lname="" fname="">हिमांशु बी जोशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हम तमिलनाडु में क्या कर रहे हैं!</title>
+				<feature></feature>
+				<page>0087-0097</page>
+				<allauthors>
+					<author lname="" fname="">प्रलयन</author>
+					<author lname="" fname="">राजीव आशीष</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>प्रजा नाट्य मण्डली में महिलाओं की भूमिका</title>
+				<feature></feature>
+				<page>0098-0102</page>
+				<allauthors>
+					<author lname="" fname="">कोमिता</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>‘रंगमळा’ का सफ़र</title>
+				<feature></feature>
+				<page>0103-0108</page>
+				<allauthors>
+					<author lname="" fname="">राजकुमार तांगडे</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>समुदाया जनता की ओर</title>
+				<feature></feature>
+				<page>0109-0114</page>
+				<allauthors>
+					<author lname="" fname="">सविता बी.</author>
+					<author lname="" fname="">भास्कर झा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुमाऊँ में भी रही है सुगबुगाहट</title>
+				<feature></feature>
+				<page>0115-0118</page>
+				<allauthors>
+					<author lname="" fname="">डॉ. अनिल कुमार कार्की</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हरियाणा में सामुदायिक नाटक का विकास</title>
+				<feature></feature>
+				<page>0119-0125</page>
+				<allauthors>
+					<author lname="" fname="">नरेश प्रेरणा</author>
+					<author lname="" fname="">डॉ. गगनदीप</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>दुर्ग द्वार पर अस्मिता की दस्तक</title>
+				<feature></feature>
+				<page>0126-0131</page>
+				<allauthors>
+					<author lname="" fname="">राजेश कुमार</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नये दौर की चुनौतियों से जूझता बिहार का नुक्कड़ नाटक</title>
+				<feature></feature>
+				<page>0132-0138</page>
+				<allauthors>
+					<author lname="" fname="">अनीश अंकुर</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पश्चिम बंगाल में प्रतिरोध की ताक़त</title>
+				<feature></feature>
+				<page>0139-0149</page>
+				<allauthors>
+					<author lname="" fname="">जीतेन्द्र सिंह</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>एक प्रस्ताव नटरंग के पुराने अंक</title>
+				<feature></feature>
+				<page>0150-0150</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>रेड रिबन एक्सप्रेस : नुक्कड़ नाटकों की अनोखी रेल</title>
+				<feature></feature>
+				<page>0151-0156</page>
+				<allauthors>
+					<author lname="" fname="">वागीश कुमार झा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>दिल्‍ली विश्वविद्यालय : नुक्कड़ एक सम्भावना</title>
+				<feature></feature>
+				<page>0157-0162</page>
+				<allauthors>
+					<author lname="" fname="">रेणु अरोड़ा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>भारतीय रंगमंच पर मंडराता वह साया</title>
+				<feature></feature>
+				<page>0163-0166</page>
+				<allauthors>
+					<author lname="" fname="">सदानंद मेनन</author>
+					<author lname="" fname="">हिमांशु बी जोशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नुक्कड़ नाटक की रचना व प्रस्तुति की पड़ताल</title>
+				<feature></feature>
+				<page>0167-0168</page>
+				<allauthors>
+					<author lname="" fname="">प्रताप सहगल</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>निशांत नाट्य मंच (जीवन-संघर्ष-सृजन)</title>
+				<feature></feature>
+				<page>0169-0205</page>
+				<allauthors>
+					<author lname="" fname="">निमिष नन्दा</author>
+					<author lname="" fname="">दीक्षा वत्स</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>थिएटर यूनियन</title>
+				<feature></feature>
+				<page>0206-0244</page>
+				<allauthors>
+					<author lname="" fname="">निमिष नन्दा</author>
+					<author lname="" fname="">दीक्षा वत्स</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>जन नाट्य मंच</title>
+				<feature></feature>
+				<page>0245-0292</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ढाई आखर प्रेम के : एक सांस्कृतिक यात्रा</title>
+				<feature></feature>
+				<page>0293-0306</page>
+				<allauthors>
+					<author lname="" fname="">उषा वैरागकर आठले</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>छवि वीथी - कुछ और छवियाँ</title>
+				<feature></feature>
+				<page>0307-0314</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>ओम स्वाहा</title>
+				<feature></feature>
+				<page>0315-0328</page>
+				<allauthors>
+					<author lname="" fname="">माया कृष्ण राव</author>
+					<author lname="" fname="">अनुराधा कपूर</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अनसुने अफ़साने</title>
+				<feature></feature>
+				<page>0329-0339</page>
+				<allauthors>
+					<author lname="" fname="">जनम के कलाकार</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>दो दूनी एक</title>
+				<feature></feature>
+				<page>0340-0349</page>
+				<allauthors>
+					<author lname="" fname="">अशोक लाल</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>भोंपू</title>
+				<feature></feature>
+				<page>0350-0370</page>
+				<allauthors>
+					<author lname="" fname="">संजय कुंदन</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>तथागत</title>
+				<feature></feature>
+				<page>0371-0382</page>
+				<allauthors>
+					<author lname="" fname="">अभिषेक मजुमदार</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पोल खुला पोर पोर</title>
+				<feature></feature>
+				<page>0383-0392</page>
+				<allauthors>
+					<author lname="" fname="">हसन इमाम</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>जल बटा शून्य</title>
+				<feature></feature>
+				<page>0393-0401</page>
+				<allauthors>
+					<author lname="" fname="">मिरांडा हाउस, दिल्ली विश्वविद्यालय</author>
+					<author lname="" fname="">कृतिका जोशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>भूख</title>
+				<feature></feature>
+				<page>0402-0412</page>
+				<allauthors>
+					<author lname="" fname="">जीसस एण्ड मैरी कॉलेज, दिल्ली विश्वविद्यालय</author>
+					<author lname="" fname="">कृतिका जोशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>रुको राही</title>
+				<feature></feature>
+				<page>0413-0418</page>
+				<allauthors>
+					<author lname="" fname="">रवीन्द्र भारती विश्वविद्यालय, कोलकाता</author>
+					<author lname="" fname="">मदन मोहन आर्या</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मारे जाएँगे</title>
+				<feature></feature>
+				<page>0419-0431</page>
+				<allauthors>
+					<author lname="" fname="">इप्टा, जेएनयू</author>
+					<author lname="" fname="">राजेश जोशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>इस अंक के लेखक/अनुवादक</title>
+				<feature></feature>
+				<page>0432-0436</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>एक अनुरोध</title>
+				<feature></feature>
+				<page>0437-0437</page>
+				<allauthors />
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="027">
+		<issue inum="106-108" month="01-09" year="2016">
+			<entry>
+				<title>सम्पादकीय</title>
+				<feature></feature>
+				<page>0009-0010</page>
+				<allauthors>
+					<author lname="" fname="">अशोक वाजपेयी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अन्वेषण</title>
+				<feature></feature>
+				<page>0013-0030</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>अभिनय</title>
+				<feature></feature>
+				<page>0031-0045</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>पारम्परिक नाट्य</title>
+				<feature></feature>
+				<page>0046-0057</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>भारतीय रंग-दृष्टि की खोज</title>
+				<feature></feature>
+				<page>0058-0062</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>नाट्य की स्वतन्त्र भाषा</title>
+				<feature></feature>
+				<page>0063-0064</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>अभिनेता, निर्देशक या नाटककार ?</title>
+				<feature></feature>
+				<page>0065-0066</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>भारतीय रंगमंच और संगीत नाटक</title>
+				<feature></feature>
+				<page>0067-0072</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>क्लासिकी रंगमंच की खोज</title>
+				<feature></feature>
+				<page>0073-0076</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>पुराने नाटक और आधुनिक रंगमंच</title>
+				<feature></feature>
+				<page>0077-0078</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>नाटक की भाषा और रंग-भाषा</title>
+				<feature></feature>
+				<page>0079-0082</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>शरीर की भाषा की अधूरी खोज</title>
+				<feature></feature>
+				<page>0083-0085</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>युवा रंग-कार्य-आशाजनक दिशा</title>
+				<feature></feature>
+				<page>0086-0090</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>हिन्दी क्षेत्र एक सांस्कृतिक उपनिवेश</title>
+				<feature></feature>
+				<page>0091-0095</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>क्लैसिक्स और सत्ताधारी वर्ग की विचारधारा</title>
+				<feature></feature>
+				<page>0096-0097</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>प्रेमचन्द रंगशाला में पुलिस का रसोईघर</title>
+				<feature></feature>
+				<page>0098-0100</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>वोली सोयिंका के साथ एक शाम</title>
+				<feature></feature>
+				<page>0101-0103</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>दो देशों के बीच एक सफल-असफल रंग-परिसंवाद</title>
+				<feature></feature>
+				<page>0104-0107</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>मुद्राराक्षस की मुद्राएँ</title>
+				<feature></feature>
+				<page>0108-0110</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>कविता और राजनीति</title>
+				<feature></feature>
+				<page>0113-0119</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>नयी कविता : उपलब्धि और भ्रान्तियाँ</title>
+				<feature></feature>
+				<page>0120-0126</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>समाज का चिड़ियाघर और आरोपित आधुनिकता</title>
+				<feature></feature>
+				<page>0127-0130</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>पैनी तराश और डरावना अनुभव-संसार</title>
+				<feature></feature>
+				<page>0131-0133</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>अधूरेपन की त्रासदी</title>
+				<feature></feature>
+				<page>0134-0137</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>दो कवि और तीन संग्रह</title>
+				<feature></feature>
+				<page>0138-0145</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>कविता के प्रतिमानों की खोज</title>
+				<feature></feature>
+				<page>0146-0151</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>तार सप्तक प्रसंग</title>
+				<feature></feature>
+				<page>0152-0161</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>रामविलास और मुक्तिबोध : ठप्पेदार आलोचना की सीमाएँ</title>
+				<feature></feature>
+				<page>0162-0165</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>भाषा का सवाल और लेखक</title>
+				<feature></feature>
+				<page>0166-0168</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>सन्दर्भ की खोज</title>
+				<feature></feature>
+				<page>0171-0176</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>साधारण की प्रतिष्ठा : ‘यह पथ बन्धु था’</title>
+				<feature></feature>
+				<page>0177-0184</page>
+				<allauthors>
+					<author lname="" fname="">नरेश मेहता</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>रूप, शिल्प और भाषा</title>
+				<feature></feature>
+				<page>0185-0191</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>काव्यात्मक वक्तव्य : ‘उसका बचपन’</title>
+				<feature></feature>
+				<page>0192-0199</page>
+				<allauthors>
+					<author lname="" fname="">कृष्ण बलदेव वैद</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>बाह्या का विस्तार : ‘झुठा सच’</title>
+				<feature></feature>
+				<page>0200-0208</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>चार प्रेम उपन्यास</title>
+				<feature></feature>
+				<page>0209-0212</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>साहित्य के बदलते हुए मूल्य</title>
+				<feature></feature>
+				<page>0213-0217</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>अनुुभूति की प्रामाणिकता</title>
+				<feature></feature>
+				<page>0218-0222</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>राष्ट्र-संकट और साहित्यकार</title>
+				<feature></feature>
+				<page>0223-0226</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>हमारा शास्त्रीय संगीत और समकालीन अनुभव</title>
+				<feature></feature>
+				<page>0229-0232</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>राग संगीत के प्रचार में भक्ति संगीत का स्थान</title>
+				<feature></feature>
+				<page>0233-0237</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>एक अधूरा आत्म-साक्षात्कार</title>
+				<feature></feature>
+				<page>0241-0267</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>प्रास्ताविक</title>
+				<feature></feature>
+				<page>0268-0281</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>संचार माध्यम और कलाओं का भविष्य</title>
+				<feature></feature>
+				<page>0282-0284</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>सर्वेश्वरदयाल सक्सेना : एक श्रद्धांजलि</title>
+				<feature></feature>
+				<page>0287-0289</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>भुवनेश्वर की रचनाओं में गहरी सृजनात्मक सूझबूझ है</title>
+				<feature></feature>
+				<page>0290-0292</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>नेमिजी की डायरी के अंश</title>
+				<feature></feature>
+				<page>0295-0305</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>कहाँ गये सारे लोग</title>
+				<feature></feature>
+				<page>0309-0310</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>शुरुआत</title>
+				<feature></feature>
+				<page>0310-0311</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>वसन्त की एक और कविता</title>
+				<feature></feature>
+				<page>0311-0312</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>चिड़िया</title>
+				<feature></feature>
+				<page>0312-0313</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>व्याख्या</title>
+				<feature></feature>
+				<page>0313-0313</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>बहस जारी है</title>
+				<feature></feature>
+				<page>0313-0314</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>हैसियत</title>
+				<feature></feature>
+				<page>0315-0316</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>कोट</title>
+				<feature></feature>
+				<page>0316-0317</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>नाटक</title>
+				<feature></feature>
+				<page>0317-0318</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>स्वर</title>
+				<feature></feature>
+				<page>0319-0319</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>वसन्त की दो कविताएँ</title>
+				<feature></feature>
+				<page>0319-0320</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>नेमिजी</title>
+				<feature></feature>
+				<page>0323-0325</page>
+				<allauthors>
+					<author lname="" fname="">रेखा जैन</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नेमिजी एक यादगार शख़्सियत</title>
+				<feature></feature>
+				<page>0326-0328</page>
+				<allauthors>
+					<author lname="" fname="">मृदुला गर्ग</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नेमिजी, अपनेपन का मनाक्‌-स्पर्श</title>
+				<feature></feature>
+				<page>0329-0331</page>
+				<allauthors>
+					<author lname="" fname="">मृणाल पाण्डे</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नेमिचन्द्र जैन जी</title>
+				<feature></feature>
+				<page>0332-0337</page>
+				<allauthors>
+					<author lname="" fname="">अपूर्वानन्द</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कितने आत्मीय कितने अपने नेमिजी</title>
+				<feature></feature>
+				<page>0338-0343</page>
+				<allauthors>
+					<author lname="" fname="">ज्योतिष जोशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अपने नेमिजी जिनका होना सदा रहेगा !</title>
+				<feature></feature>
+				<page>0344-0348</page>
+				<allauthors>
+					<author lname="" fname="">बोधिसत्व</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>एक आशातीत व्यक्तित्व</title>
+				<feature></feature>
+				<page>0349-0353</page>
+				<allauthors>
+					<author lname="" fname="">शंकर सुहेल</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नेमि सर</title>
+				<feature></feature>
+				<page>0354-0358</page>
+				<allauthors>
+					<author lname="" fname="">एम. के. रैना</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नेमि जी को याद करते हुए</title>
+				<feature></feature>
+				<page>0359-0362</page>
+				<allauthors>
+					<author lname="" fname="">देवेन्द्र राज अंकुर</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सरल सहज रहनुमा</title>
+				<feature></feature>
+				<page>0363-0371</page>
+				<allauthors>
+					<author lname="" fname="">बंसी कौल</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नेमिजी : शिक्षक और अध्येता</title>
+				<feature></feature>
+				<page>0372-0373</page>
+				<allauthors>
+					<author lname="" fname="">अनुराधा कपूर</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>ऐसे थे नेमिजी</title>
+				<feature></feature>
+				<page>0374-0377</page>
+				<allauthors>
+					<author lname="" fname="">जयदेव तनेजा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>स्मृति-कोष में नेमि स्तवन</title>
+				<feature></feature>
+				<page>0378-0385</page>
+				<allauthors>
+					<author lname="" fname="">भारतरत्न भार्गव</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>बचपन की यादों का पिटारा</title>
+				<feature></feature>
+				<page>0386-0387</page>
+				<allauthors>
+					<author lname="" fname="">आशीष विद्यार्थी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नटरंग प्रतिष्ठान : कुछ स्मृतियाँ</title>
+				<feature></feature>
+				<page>0388-0390</page>
+				<allauthors>
+					<author lname="" fname="">हिमांशु बी जोशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पत्रों की स्मृतियाँ</title>
+				<feature></feature>
+				<page>0391-0394</page>
+				<allauthors>
+					<author lname="" fname="">अशोक भौमिक</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नेमिचन्द्र जैन का जीवन तथा कार्यवृत्त</title>
+				<feature></feature>
+				<page>0395-0400</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>अपील</title>
+				<feature></feature>
+				<page>0401-0401</page>
+				<allauthors />
+			</entry>
+		</issue>
+	  </volume>
+	<volume vnum="028">
+		<issue inum="109-110" month="12" year="2020">
+			<entry>
+				<title>सम्पादकीय</title>
+				<feature></feature>
+				<page>0007-0008</page>
+				<allauthors>
+					<author lname="" fname="">अशोक वाजपेयी</author>
+				</allauthors>
+			</entry>
+	        <entry>
+				<title>आज का समय और रंगमंच</title>
+				<feature></feature>
+				<page>0009-0021</page>
+				<allauthors>
+					<author lname="" fname="">कीर्ति जैन</author>
+					<author lname="" fname="">निमिष नन्दा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कोरोना संकट में रंगमंच</title>
+				<feature></feature>
+				<page>0022-0028</page>
+				<allauthors>
+					<author lname="" fname="">अमितेश कुमार</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कोरोनाकाल : कुछ सामाजिक राजनीतिक सवाल</title>
+				<feature></feature>
+				<page>0029-0033</page>
+				<allauthors>
+					<author lname="" fname="">पुंज प्रकाश</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>रंगमंच नयी राहों, नई मंज़िलों की तलाश में</title>
+				<feature></feature>
+				<page>0034-0040</page>
+				<allauthors>
+					<author lname="" fname="">लोकेश जैन ‘जुनूनी’</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हमारा पहला कन्सर्न हैं छात्र - (कारोना काल और राष्ट्रीय नाट्य विद्यालय की अकादेमिक चुनौतियाँ)</title>
+				<feature></feature>
+				<page>0041-0059</page>
+				<allauthors>
+					<author lname="" fname="">अभिलाष पिल्लई</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कोविड के दौरान ऑनलाइन डिजिटल प्रस्तुतियाँ</title>
+				<feature></feature>
+				<page>0060-0067</page>
+				<allauthors>
+					<author lname="" fname="">इरीन बी. मी</author>
+					<author lname="" fname="">हिमांशु बी जोशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>जर्मनी की सुदृढ़ सांस्कृतिक संरचना और कोविड</title>
+				<feature></feature>
+				<page>0068-0071</page>
+				<allauthors>
+					<author lname="" fname="">एरिक शेफ़लर</author>
+					<author lname="" fname="">हिमांशु बी जोशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कोरोना काल में कुछ अभिनव नाट्य प्रयोग</title>
+				<feature></feature>
+				<page>0072-0077</page>
+				<allauthors>
+					<author lname="" fname="">रवीन्द्र त्रिपाठी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अभिव्यक्ति के ठहराव को तोड़ता आभासी रंगमंच</title>
+				<feature></feature>
+				<page>0078-0081</page>
+				<allauthors>
+					<author lname="" fname="">मोहन जोशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कुछ खोने की पीड़ा, कुछ नया करने की कोशिश</title>
+				<feature></feature>
+				<page>0082-0084</page>
+				<allauthors>
+					<author lname="" fname="">चिराग खंडेलवाल</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कश्मीरी रंगमंच पर उदासी के बादल</title>
+				<feature></feature>
+				<page>0085-0089</page>
+				<allauthors>
+					<author lname="" fname="">अयाश आरिफ़</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मुंबई का रंगमंच : एक मुश्किल घड़ी</title>
+				<feature></feature>
+				<page>0090-0091</page>
+				<allauthors>
+					<author lname="" fname="">रसिका अगाशे</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कोविड महामारी की निस्तब्धता के बीच रंगमंच</title>
+				<feature></feature>
+				<page>0092-0097</page>
+				<allauthors>
+					<author lname="" fname="">अभीष शशिधरन</author>
+					<author lname="" fname="">निमिष नन्दा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हैदराबाद का रंगमंच और कोरोना महामारी</title>
+				<feature></feature>
+				<page>0098-0104</page>
+				<allauthors>
+					<author lname="" fname="">नसरीन इसहाक़</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कोरोना उर्फ़ करो ना ! थिएटर न हारा है, ना हारेगा !</title>
+				<feature></feature>
+				<page>0105-0111</page>
+				<allauthors>
+					<author lname="" fname="">राकेश कुमार त्रिपाठी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पूर्वोत्तर के भी त्रासद अनुभव</title>
+				<feature></feature>
+				<page>0112-0115</page>
+				<allauthors>
+					<author lname="" fname="">स्वागता भराली</author>
+					<author lname="" fname="">भास्कर झा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>दोहरे हाशियाकरण से जूझता एक संवेदनशील शैक्षिक-कर्म</title>
+				<feature></feature>
+				<page>0116-0121</page>
+				<allauthors>
+					<author lname="" fname="">अभिषेक गोस्वामी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>रानावि (टीआईई विंग) त्रिपुरा केन्द्र की ऑनलाइन बाल रंग कार्यशाला</title>
+				<feature></feature>
+				<page>0122-0127</page>
+				<allauthors>
+					<author lname="" fname="">शुबा सुभाष रावत</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>छवि-वीथी</title>
+				<feature></feature>
+				<page>0128-0135</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>निर्वासन</title>
+				<feature></feature>
+				<page>0136-0172</page>
+				<allauthors>
+					<author lname="" fname="">राजेश कुमार</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अन्दर से बन्द है !</title>
+				<feature></feature>
+				<page>0173-0192</page>
+				<allauthors>
+					<author lname="" fname="">राजेश निर्मल</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कोरोना काल की रंग गतिविधियाँ</title>
+				<feature></feature>
+				<page>0193-0198</page>
+				<allauthors>
+					<author lname="" fname="">नीलेश दीपक</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>इस अंक के लेखक/अनुवादक</title>
+				<feature></feature>
+				<page>0199-0201</page>
+				<allauthors />
+			</entry>	
+		</issue>
+	 <issue inum="111" month="03" year="2021">
+			<entry>
+				<title>सम्पादकीय</title>
+				<feature></feature>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+		   <entry>
+				<title>नाटककार का वक्तव्य</title>
+				<feature></feature>
+				<page>0008-0008</page>
+				<allauthors>
+					<author lname="" fname="">रामेश्वर प्रेम</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>निर्देशक की चिट्टी</title>
+				<feature></feature>
+				<page>0008-0008</page>
+				<allauthors>
+					<author lname="" fname="">ब. व. कारंत</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अनामदास का पोथा</title>
+				<feature></feature>
+				<page>0009-0058</page>
+				<allauthors>
+					<author lname="" fname="">रामेश्वर प्रेम</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>विश्व रंगमंच और भारतीय नाट्य परम्परा</title>
+				<feature></feature>
+				<page>0059-0064</page>
+				<allauthors>
+					<author lname="" fname="">भारतरत्न भार्गव</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>प्राचीन भारतीय नाट्य परम्परा और भाषा की राजनीति</title>
+				<feature></feature>
+				<page>0065-0070</page>
+				<allauthors>
+					<author lname="" fname="">मृत्युंजय प्रभाकर</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>हिन्दी का समकालीन रंगमंच : विशिष्टता अथवा विडम्बना (एक रंगकर्मी के फुटकर नोट्स)</title>
+				<feature></feature>
+				<page>0071-0075</page>
+				<allauthors>
+					<author lname="" fname="">परवेज़ अख़्तर</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>थिएटर और व्यावसायिकता</title>
+				<feature></feature>
+				<page>0076-0083</page>
+				<allauthors>
+					<author lname="" fname="">हिमांशु राय</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>पण्डित राधेश्याम कथावाचक : कलकत्ता के वे दिन</title>
+				<feature></feature>
+				<page>0084-0089</page>
+				<allauthors>
+					<author lname="" fname="">सुधीर विद्यार्थी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>कावालम नारायण पणिक्कर : निजी रंगमंच की तलाश</title>
+				<feature></feature>
+				<page>0090-0091</page>
+				<allauthors>
+					<author lname="" fname="">डॉ. एम. एस. विश्चमभरन</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>राजेन्द्र रघुवंशी : इप्टा के शिखर व्यक्तित्व</title>
+				<feature></feature>
+				<page>0092-0098</page>
+				<allauthors>
+					<author lname="" fname="">ज़ाहिद ख़ान</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>गोबरडांगा : जिसे नाटकों का गाँव कहा जाता है</title>
+				<feature></feature>
+				<page>0099-0103</page>
+				<allauthors>
+					<author lname="" fname="">जीतेन्द्र सिंह</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>आश्रम पैराफिन : जहाँ सात्विक नाट्यकर्म की साधना होती है</title>
+				<feature></feature>
+				<page>0104-0106</page>
+				<allauthors>
+					<author lname="" fname="">डॉ. कृष्णा महावर</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>छवि वीथी</title>
+				<feature></feature>
+				<page>0107-0114</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>तीन कविता प्रस्तुतियाँ</title>
+				<feature></feature>
+				<page>0115-0118</page>
+				<allauthors>
+					<author lname="" fname="">डॉ. आशा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>जाति, लिंग, वर्ग संघर्ष और राजनीति की ‘अगरबत्ती’</title>
+				<feature></feature>
+				<page>0119-0121</page>
+				<allauthors>
+					<author lname="" fname="">पंकज स्वामी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>किसान आंदोलन के दौर में नागार्जुन का ‘बलचनमा’</title>
+				<feature></feature>
+				<page>0122-0123</page>
+				<allauthors>
+					<author lname="" fname="">हिमांशु बी जोशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>अधांतर...रात अभी बाक़ी है</title>
+				<feature></feature>
+				<page>0124-0126</page>
+				<allauthors>
+					<author lname="" fname="">भास्कर झा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>बेगूसराय का रंग-ए-माहौल</title>
+				<feature></feature>
+				<page>0127-0131</page>
+				<allauthors>
+					<author lname="" fname="">जीतेन्द्र सिंह</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>बच्चों के रॉकस्टार गाँधी</title>
+				<feature></feature>
+				<page>0132-0134</page>
+				<allauthors>
+					<author lname="" fname="">ललित कुमार सिंह</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>इस अंक के लेखक</title>
+				<feature></feature>
+				<page>0135-0136</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>नटरंग के स्वामित्व सम्बन्धी विवरण</title>
+				<feature></feature>
+				<page>0137-0137</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>एक अनुरोध</title>
+				<feature></feature>
+				<page>0139-0139</page>
+				<allauthors />
+			</entry>
+		</issue>
+	</volume>
+	<volume vnum="030">
+		<issue inum="115-116" month="03-06" year="2022">
+			<entry>
+				<title>सम्पादकीय</title>
+				<feature></feature>
+				<page>0007-0007</page>
+				<allauthors />
+			</entry>
+	       <entry>
+				<title>प्रयोग के पर्याय : बंसी कौल</title>
+				<feature></feature>
+				<page>0009-0012</page>
+				<allauthors>
+					<author lname="" fname="">धर्मेंद्र प्रताप सिंह</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>रंगकर्म के शुरूआती दिन और मददगार दोस्त</title>
+				<feature></feature>
+				<page>0013-0015</page>
+				<allauthors>
+					<author lname="" fname="">बंसी कौल</author>
+					<author lname="" fname="">कृतिका जोशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>भारतीय रंगमंच : परिवर्तन के प्रक्षेप पथ</title>
+				<feature></feature>
+				<page>0016-0020</page>
+				<allauthors>
+					<author lname="" fname="">बंसी कौल</author>
+					<author lname="" fname="">हिमांशु बी जोशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सीखा जो गुरुवर से, अब करूँ उसकी जुगाली !</title>
+				<feature></feature>
+				<page>0021-0024</page>
+				<allauthors>
+					<author lname="" fname="">डॉ. अंजना पुरी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>बंसी कौल : एक बेतरतीब डायरी के कुछ हिस्से</title>
+				<feature></feature>
+				<page>0025-0027</page>
+				<allauthors>
+					<author lname="" fname="">राजेश जोशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>बंसी कौल के साथ बिताए दिन</title>
+				<feature></feature>
+				<page>0028-0032</page>
+				<allauthors>
+					<author lname="" fname="">डॉ. अनिल रस्तोगी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>बंसी कौल के बारे में कुछ उलटबाँसियाँ</title>
+				<feature></feature>
+				<page>0033-0038</page>
+				<allauthors>
+					<author lname="" fname="">राम प्रकाश त्रिपाठी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>एक फ़िक्रमन्द इंसान</title>
+				<feature></feature>
+				<page>0039-0040</page>
+				<allauthors>
+					<author lname="" fname="">उदय शहाणे</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>सफ़र एक सूफ़ी का</title>
+				<feature></feature>
+				<page>0041-0046</page>
+				<allauthors>
+					<author lname="" fname="">फ़रीद बज़्मी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>बंसी कौल की अन्तर्वेदना</title>
+				<feature></feature>
+				<page>0047-0049</page>
+				<allauthors>
+					<author lname="" fname="">सतीश दवे</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>मेरे बंसी दादा और रंग विदूषक</title>
+				<feature></feature>
+				<page>0050-0055</page>
+				<allauthors>
+					<author lname="" fname="">कन्हैयालाल कैथवास</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>गुरु बंसी कौल ने अपने गुरु से यूँ जोड़ दिया नाता</title>
+				<feature></feature>
+				<page>0056-0061</page>
+				<allauthors>
+					<author lname="" fname="">पशुपति शर्मा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>रंगकर्म का विदूषक : बंसी कौल</title>
+				<feature></feature>
+				<page>0062-0065</page>
+				<allauthors>
+					<author lname="" fname="">मोहन जोशी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>दादा और मैं</title>
+				<feature></feature>
+				<page>0066-0068</page>
+				<allauthors>
+					<author lname="" fname="">समता सागर</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>बंसी कौल की रचना प्रक्रिया में रंगस्थल की अवधारणा</title>
+				<feature></feature>
+				<page>0069-0077</page>
+				<allauthors>
+					<author lname="" fname="">सत्यव्रत राउत</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>बंसी कौल की कार्यप्रणाली में देहगति, संगीत और मंचशिल्प</title>
+				<feature></feature>
+				<page>0078-0082</page>
+				<allauthors>
+					<author lname="" fname="">अजय कुमार</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>रंग विदूषक के नाटकों में रूप-सज्जा व वस्त्र-सज्जा</title>
+				<feature></feature>
+				<page>0083-0086</page>
+				<allauthors>
+					<author lname="" fname="">शिवप्रसाद गौड़</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>बच्चे का रोना लोहे को पानी कर देगा</title>
+				<feature></feature>
+				<page>0122-0128</page>
+				<allauthors>
+					<author lname="" fname="">ललित कुमार सिंह</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>छवि वीथी - बंसी कौल निर्देशित नाटकों के छायाचित्र</title>
+				<feature></feature>
+				<page>0129-0138</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>अरण्याधिपति टण्ट्या मामा</title>
+				<feature></feature>
+				<page>0139-0164</page>
+				<allauthors>
+					<author lname="" fname="">बंसी कौल</author>
+					<author lname="" fname="">फ़रीद बज़्मी</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>खेल पहेली</title>
+				<feature></feature>
+				<page>0165-0209</page>
+				<allauthors>
+					<author lname="" fname="">शुभाशीष गंगोपाध्याय</author>
+					<author lname="" fname="">मृत्युंजय प्रभाकर</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>नटरंग के स्वामित्व सम्बन्धी विवरण</title>
+				<feature></feature>
+				<page>0210-0210</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>बंसी कौल निर्देशित नाटक</title>
+				<feature></feature>
+				<page>0211-0213</page>
+				<allauthors>
+					<author lname="" fname="">अंजना पुरी</author>
+					<author lname="" fname="">नीलेश दीपक</author>
+					<author lname="" fname="">सुशील कान्त मिश्रा</author>
+				</allauthors>
+			</entry>
+			<entry>
+				<title>इस अंक के लेखक, अनुवादक</title>
+				<feature></feature>
+				<page>0214-0217</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>रज़ा फ़ाउण्डेशन - वार्षिक कार्यक्रम</title>
+				<feature></feature>
+				<page>0218-0218</page>
+				<allauthors />
+			</entry>
+			<entry>
+				<title>एक अनुरोध</title>
+				<feature></feature>
+				<page>0219-0219</page>
+				<allauthors />
 			</entry>
 		</issue>
 	</volume>
